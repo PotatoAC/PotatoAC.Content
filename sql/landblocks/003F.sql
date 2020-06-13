@@ -397,5 +397,9 @@ VALUES (0x7003F062, 261001, 0x003F02D2, 80.8732, -139.656, -11.945, 0.00326171, 
 /* @teleloc 0x003F02D2 [80.873199 -139.656006 -11.945000] 0.003262 0.000000 0.000000 -0.999995 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7003F063, 261001, 0x003F02B6, 59.721733, -139.79752, -11.945001, -0.66787964, 0, 0, -0.7442694, False, '2020-05-25 02:29:19'); /* Linkable Monster Generator ( 2 Min.) */
-/* @teleloc 0x003F02B6 [59.721733 -139.797516 -11.945001] -0.667880 0.000000 0.000000 -0.744269 */
+VALUES (0x7003F063, 261001, 0x003F02B6, 59.7217, -139.798, -11.945, -0.66788, 0, 0, -0.744269, False, '2020-05-25 02:29:19'); /* Linkable Monster Generator ( 2 Min.) */
+/* @teleloc 0x003F02B6 [59.721699 -139.798004 -11.945000] -0.667880 0.000000 0.000000 -0.744269 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x7003F064, 152001, 0x003F0388, 9.940207, -7.6559854, 0.054999996, -0.99999994, 0, 0, 0.00029566308, False, '2020-06-13 17:29:45'); /* Linkable Monster Generator ( 2 Min.) */
+/* @teleloc 0x003F0388 [9.940207 -7.655985 0.055000] -1.000000 0.000000 0.000000 0.000296 */
