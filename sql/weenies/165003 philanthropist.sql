@@ -9,13 +9,13 @@ VALUES (165003,   1,         16) /* ItemType - Creature */
      , (165003,   6,        255) /* ItemsCapacity */
      , (165003,   7,        255) /* ContainersCapacity */
      , (165003,  16,         32) /* ItemUseable - Remote */
-     , (165003,  25,        200) /* Level */
+     , (165003,  25,        275) /* Level */
      , (165003,  93,    6292504) /* PhysicsState - ReportCollisions, IgnoreCollisions, Gravity, ReportCollisionsAsEnvironment, EdgeSlide */
      , (165003,  95,          8) /* RadarBlipColor - Yellow */
-     , (165003, 113,          2) /* Gender - Female */
+     , (165003, 113,          1) /* Gender - Male */
      , (165003, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (165003, 134,         16) /* PlayerKillerStatus - RubberGlue */
-     , (165003, 188,          1) /* HeritageGroup - Aluvian */;
+     , (165003, 188,          2) /* HeritageGroup - Gharun'dim */;
 
 INSERT INTO `weenie_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (165003,   1, True ) /* Stuck */
@@ -26,20 +26,18 @@ VALUES (165003,  39,    1.15) /* DefaultScale */
      , (165003,  54,       3) /* UseRadius */;
 
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
-VALUES (165003,   1, 'Anonymous Philanthropist') /* Name */;
+VALUES (165003,  1, 'Anonymous Philanthropist') /* Name */
+     , (165003,   3, 'Male') /* Sex */
+     , (165003,   4, 'Gharu''ndim') /* HeritageGroup */
+     , (165003,   5, 'Mage') /* Template */;
 
 INSERT INTO `weenie_properties_d_i_d` (`object_Id`, `type`, `value`)
-VALUES (165003,   1,   33554510) /* Setup */
+VALUES (165003,   1,   33554433) /* Setup */
      , (165003,   2,  150994945) /* MotionTable */
      , (165003,   3,  536870913) /* SoundTable */
+     , (165003,   4,  805306368) /* CombatTable */
      , (165003,   6,   67108990) /* PaletteBase */
-     , (165003,   8,  100667446) /* Icon */
-     , (165003,   9,   83890284) /* EyesTexture */
-     , (165003,  10,   83890310) /* NoseTexture */
-     , (165003,  11,   83890356) /* MouthTexture */
-     , (165003,  15,   67117016) /* HairPalette */
-     , (165003,  16,   67110064) /* EyesPalette */
-     , (165003,  17,   67109561) /* SkinPalette */;
+     , (165003,   8,  100667446) /* Icon */;
 
 INSERT INTO `weenie_properties_attribute` (`object_Id`, `type`, `init_Level`, `level_From_C_P`, `c_P_Spent`)
 VALUES (165003,   1, 110, 0, 0) /* Strength */
@@ -1788,4 +1786,4 @@ VALUES (@parent_id, 0, 10 /* Tell */, 0, 1, NULL, 'You do not meet the requireme
 
 
 INSERT INTO `weenie_properties_create_list` (`object_Id`, `destination_Type`, `weenie_Class_Id`, `stack_Size`, `palette`, `shade`, `try_To_Bond`)
-VALUES (165003, 2, 8399,  0, 6, 0.5882, False) /* Create Kireth Gown with Band (8399) for Wield */;
+VALUES (165003, 2,  5913,  0, 5, 0, False) /* Create Dho Item Master Robe (5913) for Wield */;
