@@ -10,7 +10,7 @@ VALUES (1910006,   1,          2) /* ItemType - Armor */
      , (1910006,   5,       1750) /* EncumbranceVal */
      , (1910006,   9,      32545) /* ValidLocations - HeadWear, HandWear, Armor */
      , (1910006,  10,          1) /* CurrentWieldedLocation - HeadWear */
-     , (1910006,  19,         1000) /* Value */
+     , (1910006,  19,         50) /* Value */
      , (1910006,  28,         10) /* ArmorLevel */
      , (1910006, 151,          9) /* HookType - Floor, Yard */;
 

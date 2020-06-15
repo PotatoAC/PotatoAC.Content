@@ -10,7 +10,7 @@ VALUES (1910036,   1,          2) /* ItemType - Armor */
      , (1910036,   5,        690) /* EncumbranceVal */
      , (1910036,   9,    2097152) /* ValidLocations - Shield */
      , (1910036,  16,          1) /* ItemUseable - No */
-     , (1910036,  19,        500) /* Value */
+     , (1910036,  19,        20) /* Value */
      , (1910036,  37,       9999) /* ResistItemAppraisal */
      , (1910036,  51,          4) /* CombatUse - Shield */
      , (1910036,  52,          3) /* ParentLocation - Shield */

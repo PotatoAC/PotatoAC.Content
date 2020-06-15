@@ -10,7 +10,7 @@ VALUES (1910037,   1,      32768) /* ItemType - Caster */
      , (1910037,   8,         50) /* Mass */
      , (1910037,   9,   16777216) /* ValidLocations - Held */
      , (1910037,  16,          1) /* ItemUseable - No */
-     , (1910037,  19,      100) /* Value */
+     , (1910037,  19,      50) /* Value */
      , (1910037,  46,        512) /* DefaultCombatStyle - Magic */
      , (1910037,  52,          1) /* ParentLocation - RightHand */
      , (1910037,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

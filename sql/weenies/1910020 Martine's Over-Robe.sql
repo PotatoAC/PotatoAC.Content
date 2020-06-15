@@ -12,7 +12,7 @@ VALUES (1910020,   1,          2) /* ItemType - Clothing */
      , (1910020,   9,      512) /* ValidLocations - Armor */
      , (1910020,  16,          1) /* ItemUseable - No */
      , (1910020,  18,          1) /* UiEffects - Magical */
-     , (1910020,  19,       50) /* Value */
+     , (1910020,  19,       25) /* Value */
      , (1910020,  27,          1) /* ArmorType - Cloth */
      , (1910020,  28,         30) /* ArmorLevel */
      , (1910020,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

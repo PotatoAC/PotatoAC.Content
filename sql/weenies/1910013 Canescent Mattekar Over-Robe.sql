@@ -12,7 +12,7 @@ VALUES (1910013,   1,          2) /* ItemType - Armor */
      , (1910013,   8,        500) /* Mass */
      , (1910013,   9,      512) /* ValidLocations - Armor */
      , (1910013,  16,          1) /* ItemUseable - No */
-     , (1910013,  19,          50) /* Value */
+     , (1910013,  19,          25) /* Value */
      , (1910013,  27,          1) /* ArmorType - Cloth */
      , (1910013,  28,        120) /* ArmorLevel */
      , (1910013,  33,          1) /* Bonded - Bonded */

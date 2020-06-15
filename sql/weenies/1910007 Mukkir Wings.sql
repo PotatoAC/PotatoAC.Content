@@ -10,7 +10,7 @@ VALUES (1910007,   1,          4) /* ItemType - Clothing */
      , (1910007,   9,  134217728) /* ValidLocations - Cloak */
      , (1910007,  16,          1) /* ItemUseable - No */
      , (1910007,  18,          1) /* UiEffects - Magical */
-     , (1910007,  19,      5000) /* Value */
+     , (1910007,  19,      250) /* Value */
      , (1910007,  28,          0) /* ArmorLevel */
      , (1910007,  36,       9999) /* ResistMagic */
      , (1910007,  53,        101) /* PlacementPosition - Resting */

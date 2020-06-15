@@ -13,7 +13,7 @@ VALUES (1910011,   1,          2) /* ItemType - Clothing */
      , (1910011,   9,      512) /* ValidLocations - HeadWear, Armor */
      , (1910011,  16,          1) /* ItemUseable - No */
      , (1910011,  18,          1) /* UiEffects - Magical */
-     , (1910011,  19,       100) /* Value */
+     , (1910011,  19,       25) /* Value */
      , (1910011,  27,          1) /* ArmorType - Cloth */
      , (1910011,  28,         80) /* ArmorLevel */
      , (1910011,  36,       9999) /* ResistMagic */

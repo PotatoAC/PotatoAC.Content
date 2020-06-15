@@ -13,7 +13,7 @@ VALUES (1910035,   1,          2) /* ItemType - Armor */
      , (1910035,   9,      24576) /* ValidLocations - UpperLegArmor, LowerLegArmor */
      , (1910035,  16,          1) /* ItemUseable - No */
      , (1910035,  17,        267) /* RareId */
-     , (1910035,  19,      500) /* Value */
+     , (1910035,  19,      50) /* Value */
      , (1910035,  26,          1) /* AccountRequirements - AsheronsCall_Subscription */
      , (1910035,  27,          2) /* ArmorType - Leather */
      , (1910035,  28,        0) /* ArmorLevel */

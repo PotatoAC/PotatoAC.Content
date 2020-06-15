@@ -12,7 +12,7 @@ VALUES (1910033,   1,          2) /* ItemType - Armor */
      , (1910033,   9,       7680) /* ValidLocations - ChestArmor, AbdomenArmor, UpperArmArmor, LowerArmArmor */
      , (1910033,  16,          1) /* ItemUseable - No */
      , (1910033,  17,        266) /* RareId */
-     , (1910033,  19,      500) /* Value */
+     , (1910033,  19,      50) /* Value */
      , (1910033,  27,          4) /* ArmorType - StuddedLeather */
      , (1910033,  28,        0) /* ArmorLevel */
      , (1910033,  53,        101) /* PlacementPosition - Resting */

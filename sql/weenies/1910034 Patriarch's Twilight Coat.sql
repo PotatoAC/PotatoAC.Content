@@ -12,7 +12,7 @@ VALUES (1910034,   1,          2) /* ItemType - Armor */
      , (1910034,   9,       7680) /* ValidLocations - ChestArmor, AbdomenArmor, UpperArmArmor, LowerArmArmor */
      , (1910034,  16,          1) /* ItemUseable - No */
      , (1910034,  17,        265) /* RareId */
-     , (1910034,  19,      500) /* Value */
+     , (1910034,  19,      50) /* Value */
      , (1910034,  27,          2) /* ArmorType - Leather */
      , (1910034,  28,        0) /* ArmorLevel */
      , (1910034,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

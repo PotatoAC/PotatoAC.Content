@@ -5,11 +5,12 @@ VALUES (1910022, '1910022robeswarthymattekar', 2, '2020-05-30 19:56:20') /* Clot
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1910022,   1,          2) /* ItemType - Armor */
+     , (1910022,   3,         39) /* PaletteTemplate - Black */
      , (1910022,   4,       1024) /* ClothingPriority - OuterwearChest */
      , (1910022,   5,       1300) /* EncumbranceVal */
      , (1910022,   9,      512) /* ValidLocations - Armor */
      , (1910022,  16,          1) /* ItemUseable - No */
-     , (1910022,  19,       1000) /* Value */
+     , (1910022,  19,       250) /* Value */
      , (1910022,  28,        200) /* ArmorLevel */
      , (1910022,  53,        101) /* PlacementPosition - Resting */
      , (1910022,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

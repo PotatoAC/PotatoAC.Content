@@ -12,7 +12,7 @@ VALUES (1910038,   1,      32768) /* ItemType - Caster */
      , (1910038,   9,   16777216) /* ValidLocations - Held */
      , (1910038,  16,    6291460) /* ItemUseable - SourceWieldedTargetRemoteNeverWalk */
      , (1910038,  17,        187) /* RareId */
-     , (1910038,  19,      500) /* Value */
+     , (1910038,  19,      50) /* Value */
      , (1910038,  46,        512) /* DefaultCombatStyle - Magic */
      , (1910038,  52,          1) /* ParentLocation - RightHand */
      , (1910038,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

@@ -11,7 +11,7 @@ VALUES (1910060,   1,          2) /* ItemType - Armor */
      , (1910060,   9,          1) /* ValidLocations - HeadWear */
      , (1910060,  16,          1) /* ItemUseable - No */
      , (1910060,  18,          1) /* UiEffects - Magical */
-     , (1910060,  19,          1000) /* Value */
+     , (1910060,  19,          50) /* Value */
      , (1910060,  53,        101) /* PlacementPosition - Resting */
      , (1910060,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (1910060, 151,          2) /* HookType - Wall */;

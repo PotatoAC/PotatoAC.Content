@@ -9,7 +9,7 @@ VALUES (1910024,   1,          2) /* ItemType - Armor */
      , (1910024,   5,       2247) /* EncumbranceVal */
      , (1910024,   9,      25600) /* ValidLocations - AbdomenArmor, UpperLegArmor, LowerLegArmor */
      , (1910024,  16,          1) /* ItemUseable - No */
-     , (1910024,  19,       200) /* Value */
+     , (1910024,  19,       50) /* Value */
      , (1910024,  28,        0) /* ArmorLevel */
      , (1910024,  53,        101) /* PlacementPosition - Resting */
      , (1910024,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */;
