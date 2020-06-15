@@ -192,7 +192,7 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4,  4981, -1, 0, 0, False) /* Create Ice Heaume of Frore (4981) for Shop */
      , (1910008, 4,  5878, -1, 0, 0, False) /* Create Tremblant's Ivory Staff (5878) for Shop */
      , (1910008, 4,  5937, -1, 0, 0, False) /* Create Impious Staff (5937) for Shop */
-     , (1910008, 4,  6061, -1, 0, 0, False) /* Create Gelidite Robe (6061) for Shop */
+     , (1910008, 4,  1910040, -1, 0, 0, False) /* Create Gelidite Robe (1910040) for Shop */
      , (1910008, 4,  7767, -1, 0, 0, False) /* Create Drudge Board with Nail (7767) for Shop */
      , (1910008, 4,  8130, -1, 0, 0, False) /* Create Giant Monouga Axe (8130) for Shop */
      , (1910008, 4,  8637, -1, 0, 0, False) /* Create Bludgeoning Sword (8637) for Shop */
@@ -210,8 +210,8 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 15391, -1, 0, 0, False) /* Create Ben Ten's Tachi (15391) for Shop */
      , (1910008, 4, 22078, -1, 0, 0, False) /* Create Scroll of Mount Lethe Recall (22078) for Shop */
      , (1910008, 4, 22863, -1, 0, 0, False) /* Create Ulgrim's Recall Scroll (22863) for Shop */
-     , (1910008, 4, 134017, -1, 0, 0, False) /* Create  Swarthy Mattekar Over-Robe for Shop */
-     , (1910008, 4, 134018, -1, 0, 0, False) /* Create  Dapper Suit Over-Robe for Shop */
+     , (1910008, 4, 1910022, -1, 0, 0, False) /* Create  Swarthy Mattekar Over-Robe for Shop */
+     , (1910008, 4, 1910023, -1, 0, 0, False) /* Create  Dapper Suit Over-Robe for Shop */
      , (1910008, 4, 27795, -1, 0, 0, False) /* Create Fetish of the Dark Idols (27795) for Shop */
      , (1910008, 4, 30253, -1, 0, 0, False) /* Create Limitless Lockpick (30253) for Shop */
      , (1910008, 4, 30936, -1, 0, 0, False) /* Create Pack (30936) for Shop */
@@ -227,7 +227,7 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 134000, -1, 0, 0, False) /* Create Scroll of Gear Knight Invasion Area Camp Recall (134000) for Shop */
      , (1910008, 4, 134001, -1, 0, 0, False) /* Create Scroll of Lost City of Neftet Recall (134001) for Shop */
      , (1910008, 4, 45032, -1, 0, 0, False) /* Create Hoory Mattekar Over-robe (45032) for Shop */
-     , (1910008, 4, 52193, -1, 0, 0, False) /* Create Mukkir Wings (52193) for Shop */
+     , (1910008, 4, 1910007, -1, 0, 0, False) /* Create Mukkir Wings (1910007) for Shop */
      , (1910008, 4, 12126, -1, 0, 0, False) /* Create Bunny Slippers (12126) for Shop */
      , (1910008, 4, 12156, -1, 0, 0, False) /* Create White Bunny Slippers (12156) for Shop */
      , (1910008, 4, 23356, -1, 0, 0, False) /* Create Sanguinary Aegis (23356) for Shop */
@@ -260,8 +260,8 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 36518, -1, 0, 0, False) /* Create Colosseum Coin (36518) for Shop */
      , (1910008, 4, 36376, -1, 0, 0, False) /* Create Small Olthoi Venom Sac (36376) for Shop */
      , (1910008, 4,  3715, -1, 0, 0, False) /* Create Olthoi Helm (3715) for Shop */
-     , (1910008, 4,  6799, -1, 0, 0, False) /* Create Nexus Amuli Coat (6799) for Shop */
-     , (1910008, 4,  6801, -1, 0, 0, False) /* Create Nexus Amuli Leggings (6801) for Shop */
+     , (1910008, 4,  1910041, -1, 0, 0, False) /* Create Nexus Amuli Coat (1910041) for Shop */
+     , (1910008, 4,  1910042, -1, 0, 0, False) /* Create Nexus Amuli Leggings (1910042) for Shop */
      , (1910008, 4, 15863, -1, 0, 0, False) /* Create Bronze Large Kite Shield (15863) for Shop */
      , (1910008, 4, 15864, -1, 0, 0, False) /* Create Bronze Round Shield (15864) for Shop */
      , (1910008, 4, 15865, -1, 0, 0, False) /* Create Bronze Tower Shield (15865) for Shop */
@@ -310,60 +310,60 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 22019, -1, 0, 0, False) /* Create Sclavus Guise (22019) for Shop */
      , (1910008, 4, 32155, -1, 0, 0, False) /* Create Ursuin Guise (32155) for Shop */
      , (1910008, 4, 22020, -1, 0, 0, False) /* Create Skeletal Guise (22020) for Shop */
-     , (1910008, 4, 134019, -1, 0, 0, False) /* Create O-Yoroi Leggings (134019) for Shop */
-     , (1910008, 4, 134020, -1, 0, 0, False) /* Create O-Yoroi Coat (134020) for Shop */
-     , (1910008, 4, 134021, -1, 0, 0, False) /* Create O-Yoroi Sandals (134021) for Shop */
-     , (1910008, 4, 134022, -1, 0, 0, False) /* Create O-Yoroi Gauntlets (134022) for Shop */
-     , (1910008, 4, 134023, -1, 0, 0, False) /* Create O-Yoroi Helm (134023) for Shop */
+     , (1910008, 4, 1910024, -1, 0, 0, False) /* Create O-Yoroi Leggings (1910024) for Shop */
+     , (1910008, 4, 1910025, -1, 0, 0, False) /* Create O-Yoroi Coat (1910025) for Shop */
+     , (1910008, 4, 1910026, -1, 0, 0, False) /* Create O-Yoroi Sandals (1910026) for Shop */
+     , (1910008, 4, 1910027, -1, 0, 0, False) /* Create O-Yoroi Gauntlets (1910027) for Shop */
+     , (1910008, 4, 1910028, -1, 0, 0, False) /* Create O-Yoroi Helm (1910028) for Shop */
      , (1910008, 4, 134024, -1, 0, 0, False) /* Create Heart of Darkest Flame (134024) for Shop */
      , (1910008, 4, 134025, -1, 0, 0, False) /* Create Itaka's Naginata (134025) for Shop */
      , (1910008, 4, 134026, -1, 0, 0, False) /* Create Decapitator's Blade (134026) for Shop */
-     , (1910008, 4, 134027, -1, 0, 0, False) /* Create Imperial Chevaird's Helm (134027) for Shop */
+     , (1910008, 4, 1910029, -1, 0, 0, False) /* Create Imperial Chevaird's Helm (1910029) for Shop */
      , (1910008, 4, 134028, -1, 0, 0, False) /* Create Revenant's Scythe (134028) for Shop */
-     , (1910008, 4, 134029, -1, 0, 0, False) /* Create Gauntlets of Leikotha's Tears (134029) for Shop */
+     , (1910008, 4, 1910030, -1, 0, 0, False) /* Create Gauntlets of Leikotha's Tears (1910030) for Shop */
      , (1910008, 4, 134030, -1, 0, 0, False) /* Create Footman's Boots (134030) for Shop */
      , (1910008, 4, 134031, -1, 0, 0, False) /* Create Mirrored Justice (134031) for Shop */
      , (1910008, 4, 134032, -1, 0, 0, False) /* Create Count Renari's Equalizer (134032) for Shop */
      , (1910008, 4, 134033, -1, 0, 0, False) /* Create Pitfighter's Edge (134033) for Shop */
      , (1910008, 4, 134034, -1, 0, 0, False) /* Create Fist of Three Principles (134034) for Shop */
-     , (1910008, 4, 134035, -1, 0, 0, False) /* Create Dusk Leggings (134035) for Shop */
-     , (1910008, 4, 134036, -1, 0, 0, False) /* Create Dusk Coat (134036) for Shop */
-     , (1910008, 4, 134037, -1, 0, 0, False) /* Create Patriarch's Twilight Coat (134037) for Shop */
-     , (1910008, 4, 134038, -1, 0, 0, False) /* Create Patriarch's Twilight Tights (134038) for Shop */
-     , (1910008, 4, 29132, -1, 0, 0, False) /* Amber Ape Keg */
-     , (1910008, 4, 32267, -1, 0, 0, False) /* Apothecary Zongo's Stout Keg */
-     , (1910008, 4, 29140, -1, 0, 0, False) /* Bobo's Stout Keg */
-     , (1910008, 4, 32268, -1, 0, 0, False) /* Duke Raoul's Distillation Keg */
-     , (1910008, 4, 32269, -1, 0, 0, False) /* Hunter's Stock Amber Keg */
-     , (1910008, 4, 29143, -1, 0, 0, False) /* Tusker Spit Ale Keg */
-     , (1910008, 4, 134045, -1, 0, 0, False) /* Corrupted Aegis Black */
-     , (1910008, 4, 134046, -1, 0, 0, False) /* Eye of the Fallen */
-     , (1910008, 4, 51856, -1, 0, 0, False) /* Rynthid Berserkers Mask */
-     , (1910008, 4, 51854, -1, 0, 0, False) /* Rynthid Minion of Torment Mask */
-     , (1910008, 4, 51859, -1, 0, 0, False) /* Rynthid Sorcerer of Rage Mask */
-     , (1910008, 4, 51858, -1, 0, 0, False) /* Rynthid Sorcerer of Torment Mask */
-     , (1910008, 4, 51857, -1, 0, 0, False) /* Rynthid Ravager Mask */
-     , (1910008, 4, 28858, -1, 0, 0, False) /* Armored Skeleton Guise */
-     , (1910008, 4, 22024, -1, 0, 0, False) /* Full Mu-Miyah Guise */
-     , (1910008, 4, 43241, -1, 0, 0, False) /* Gurog Guise */
-     , (1910008, 4, 28860, -1, 0, 0, False) /* Scarecrow Guise */
-     , (1910008, 4, 22018, -1, 0, 0, False) /* Mu-Miyah Guise */
-     , (1910008, 4, 43242, -1, 0, 0, False) /* Wooden Scarecrow Guise */
-     , (1910008, 4, 22021, -1, 0, 0, False) /* Undead Guise */
-     , (1910008, 4, 32154, -1, 0, 0, False) /* Ghost Guise */
-     , (1910008, 4, 28869, -1, 0, 0, False) /* Peg Legs */
-     , (1910008, 4, 134063, -1, 0, 0, False) /* Orb of the Ironsea Tailoring Only */
-     , (1910008, 4, 134006 , -1, 0, 0, False) /* Bathrobe Over-Robe */
-     , (1910008, 4, 134007, -1, 0, 0, False) /* Elemental Master Over-robe */
-     , (1910008, 4, 134008, -1, 0, 0, False) /* Canescent Mattekar Over-Robe Red PP */
-     , (1910008, 4, 134009, -1, 0, 0, False) /* Canescent Mattekar Over-Robe Blue PP*/
-     , (1910008, 4, 134010, -1, 0, 0, False) /* Canescent Mattekar Over-Robe Red*/
-     , (1910008, 4, 134011, -1, 0, 0, False) /* Canescent Mattekar Over-Robe Blue*/
-     , (1910008, 4, 134012, -1, 0, 0, False) /* Kiyafa Robe */
-     , (1910008, 4, 134013, -1, 0, 0, False) /* Robe of the Tundra */
-     , (1910008, 4, 134014, -1, 0, 0, False) /* Vestiri Robe with Hood Over-Robe */
-     , (1910008, 4, 134015, -1, 0, 0, False) /* Martine's Over-Robe */
-     , (1910008, 4, 134016, -1, 0, 0, False) /* Plaguefang's Over-Robe */
+     , (1910008, 4, 1910032, -1, 0, 0, False) /* Create Dusk Leggings (1910032) for Shop */
+     , (1910008, 4, 1910033, -1, 0, 0, False) /* Create Dusk Coat (1910033) for Shop */
+     , (1910008, 4, 1910034, -1, 0, 0, False) /* Create Patriarch's Twilight Coat (1910034) for Shop */
+     , (1910008, 4, 1910035, -1, 0, 0, False) /* Create Patriarch's Twilight Tights (1910035) for Shop */
+     , (1910008, 4, 1910049, -1, 0, 0, False) /* Amber Ape Keg */
+     , (1910008, 4, 1910054, -1, 0, 0, False) /* Apothecary Zongo's Stout Keg */
+     , (1910008, 4, 1910051, -1, 0, 0, False) /* Bobo's Stout Keg */
+     , (1910008, 4, 1910055, -1, 0, 0, False) /* Duke Raoul's Distillation Keg */
+     , (1910008, 4, 1910056, -1, 0, 0, False) /* Hunter's Stock Amber Keg */
+     , (1910008, 4, 1910052, -1, 0, 0, False) /* Tusker Spit Ale Keg */
+     , (1910008, 4, 1910036, -1, 0, 0, False) /* Corrupted Aegis Black */
+     , (1910008, 4, 1910037, -1, 0, 0, False) /* Eye of the Fallen */
+     , (1910008, 4, 1910057, -1, 0, 0, False) /* Rynthid Berserkers Mask */
+     , (1910008, 4, 1910039, -1, 0, 0, False) /* Rynthid Minion of Torment Mask */
+     , (1910008, 4, 1910060, -1, 0, 0, False) /* Rynthid Sorcerer of Rage Mask */
+     , (1910008, 4, 1910059, -1, 0, 0, False) /* Rynthid Sorcerer of Torment Mask */
+     , (1910008, 4, 1910058, -1, 0, 0, False) /* Rynthid Ravager Mask */
+     , (1910008, 4, 1910046, -1, 0, 0, False) /* Armored Skeleton Guise */
+     , (1910008, 4, 1910045, -1, 0, 0, False) /* Full Mu-Miyah Guise */
+     , (1910008, 4, 1910006, -1, 0, 0, False) /* Gurog Guise */
+     , (1910008, 4, 1910047, -1, 0, 0, False) /* Scarecrow Guise */
+     , (1910008, 4, 1910043, -1, 0, 0, False) /* Mu-Miyah Guise */
+     , (1910008, 4, 1910018, -1, 0, 0, False) /* Wooden Scarecrow Guise */
+     , (1910008, 4, 1910044, -1, 0, 0, False) /* Undead Guise */
+     , (1910008, 4, 1910053, -1, 0, 0, False) /* Ghost Guise */
+     , (1910008, 4, 1910048, -1, 0, 0, False) /* Peg Legs */
+     , (1910008, 4, 1910038, -1, 0, 0, False) /* Orb of the Ironsea Tailoring Only */
+     , (1910008, 4, 1910010 , -1, 0, 0, False) /* Bathrobe Over-Robe */
+     , (1910008, 4, 1910011, -1, 0, 0, False) /* Elemental Master Over-robe */
+     , (1910008, 4, 1910012, -1, 0, 0, False) /* Canescent Mattekar Over-Robe Red PP */
+     , (1910008, 4, 1910013, -1, 0, 0, False) /* Canescent Mattekar Over-Robe Blue PP*/
+     , (1910008, 4, 1910014, -1, 0, 0, False) /* Canescent Mattekar Over-Robe Red*/
+     , (1910008, 4, 1910015, -1, 0, 0, False) /* Canescent Mattekar Over-Robe Blue*/
+     , (1910008, 4, 1910016, -1, 0, 0, False) /* Kiyafa Robe */
+     , (1910008, 4, 1910017, -1, 0, 0, False) /* Robe of the Tundra */
+     , (1910008, 4, 1910019, -1, 0, 0, False) /* Vestiri Robe with Hood Over-Robe */
+     , (1910008, 4, 1910020, -1, 0, 0, False) /* Martine's Over-Robe */
+     , (1910008, 4, 1910021, -1, 0, 0, False) /* Plaguefang's Over-Robe */
      , (1910008, 4, 35180, -1, 0, 0, False) /* Create Hulking Bunny Slippers (35180) for Shop */
      , (1910008, 4, 43189, -1, 0, 0, False) /* Create Gem of Knowledge (43189) for Shop */
      , (1910008, 4, 27256, -1, 0, 0, False) /* Create Burning Coal (27256) for Shop */
