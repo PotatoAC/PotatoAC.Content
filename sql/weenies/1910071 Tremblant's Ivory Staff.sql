@@ -11,7 +11,7 @@ VALUES (1910071,   1,          1) /* ItemType - MeleeWeapon */
      , (1910071,   9,    1048576) /* ValidLocations - MeleeWeapon */
      , (1910071,  16,          1) /* ItemUseable - No */
      , (1910071,  18,         64) /* UiEffects - Lightning */
-     , (1910071,  19,        100) /* Value */
+     , (1910071,  19,        50) /* Value */
      , (1910071,  33,          1) /* Bonded - Bonded */
      , (1910071,  44,         10) /* Damage */
      , (1910071,  45,         64) /* DamageType - Electric */

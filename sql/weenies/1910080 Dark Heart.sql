@@ -11,7 +11,7 @@ VALUES (1910080,   1,      32768) /* ItemType - Caster */
      , (1910080,   9,   16777216) /* ValidLocations - Held */
      , (1910080,  16,    6291464) /* ItemUseable - SourceContainedTargetRemoteNeverWalk */
      , (1910080,  18,          1) /* UiEffects - Magical */
-     , (1910080,  19,        250) /* Value */
+     , (1910080,  19,        50) /* Value */
      , (1910080,  46,        512) /* DefaultCombatStyle - Magic */
      , (1910080,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
      , (1910080,  94,         16) /* TargetType - Creature */

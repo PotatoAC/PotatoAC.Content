@@ -11,7 +11,7 @@ VALUES (1910165,   1,        512) /* ItemType - Container */
      , (1910165,  16,         56) /* ItemUseable - ContainedViewedRemote */
      , (1910165,  17,        186) /* RareId */
      , (1910165,  18,          1) /* UiEffects - Magical */
-     , (1910165,  19,        500) /* Value */
+     , (1910165,  19,        150) /* Value */
      , (1910165,  53,        101) /* PlacementPosition - Resting */
      , (1910165,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */;
 

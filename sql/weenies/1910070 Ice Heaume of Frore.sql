@@ -12,7 +12,7 @@ VALUES (1910070,   1,          2) /* ItemType - Armor */
      , (1910070,   9,          1) /* ValidLocations - HeadWear */
      , (1910070,  16,          1) /* ItemUseable - No */
      , (1910070,  18,        128) /* UiEffects - Frost */
-     , (1910070,  19,        500) /* Value */
+     , (1910070,  19,        50) /* Value */
      , (1910070,  27,         32) /* ArmorType - Metal */
      , (1910070,  28,        160) /* ArmorLevel */
      , (1910070,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

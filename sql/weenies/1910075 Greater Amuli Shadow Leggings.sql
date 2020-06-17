@@ -10,9 +10,9 @@ VALUES (1910075,   1,          2) /* ItemType - Armor */
      , (1910075,   5,       2288) /* EncumbranceVal */
      , (1910075,   8,       1275) /* Mass */
      , (1910075,   9,      25600) /* ValidLocations - AbdomenArmor, UpperLegArmor, LowerLegArmor */
-     , (1910075,  15,        300) /* StackUnitValue */
+     , (1910075,  15,        250) /* StackUnitValue */
      , (1910075,  16,          1) /* ItemUseable - No */
-     , (1910075,  19,        300) /* Value */
+     , (1910075,  19,        250) /* Value */
      , (1910075,  27,          2) /* ArmorType - Leather */
      , (1910075,  28,        190) /* ArmorLevel */
      , (1910075,  33,          1) /* Bonded - Bonded */

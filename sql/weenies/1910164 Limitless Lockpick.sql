@@ -8,7 +8,7 @@ VALUES (1910164,   1,      16384) /* ItemType - Key */
      , (1910164,   5,          5) /* EncumbranceVal */
      , (1910164,  16,    2097160) /* ItemUseable - SourceContainedTargetRemote */
      , (1910164,  17,        149) /* RareId */
-     , (1910164,  19,        250) /* Value */
+     , (1910164,  19,        75) /* Value */
      , (1910164,  33,         -1) /* Bonded - Slippery */
      , (1910164,  88,         20) /* LockpickMod */
      , (1910164,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

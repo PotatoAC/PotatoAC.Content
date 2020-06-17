@@ -10,7 +10,7 @@ VALUES (1910187,   1,          2) /* ItemType - Armor */
      , (1910187,   5,        300) /* EncumbranceVal */
      , (1910187,   9,        512) /* ValidLocations - ChestArmor */
      , (1910187,  16,          1) /* ItemUseable - No */
-     , (1910187,  19,        100) /* Value */
+     , (1910187,  19,        50) /* Value */
      , (1910187,  27,          1) /* ArmorType - Cloth */
      , (1910187,  28,         10) /* ArmorLevel */
      , (1910187,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

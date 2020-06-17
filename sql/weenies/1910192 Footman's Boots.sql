@@ -12,7 +12,7 @@ VALUES (1910192,   1,          2) /* ItemType - Armor */
      , (1910192,   9,        256) /* ValidLocations - FootWear */
      , (1910192,  16,          1) /* ItemUseable - No */
      , (1910192,  17,        226) /* RareId */
-     , (1910192,  19,        250) /* Value */
+     , (1910192,  19,        100) /* Value */
      , (1910192,  26,          1) /* AccountRequirements - AsheronsCall_Subscription */
      , (1910192,  27,          2) /* ArmorType - Leather */
      , (1910192,  28,          0) /* ArmorLevel */

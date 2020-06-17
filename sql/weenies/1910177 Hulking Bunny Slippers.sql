@@ -10,7 +10,7 @@ VALUES (1910177,   1,          4) /* ItemType - Clothing */
      , (1910177,   9,        256) /* ValidLocations - FootWear */
      , (1910177,  15,        350) /* StackUnitValue */
      , (1910177,  16,          1) /* ItemUseable - No */
-     , (1910177,  19,        350) /* Value */
+     , (1910177,  19,        150) /* Value */
      , (1910177,  28,         50) /* ArmorLevel */
      , (1910177,  53,        101) /* PlacementPosition - Resting */
      , (1910177,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

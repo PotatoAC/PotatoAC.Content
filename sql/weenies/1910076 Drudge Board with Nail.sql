@@ -9,7 +9,7 @@ VALUES (1910076,   1,          1) /* ItemType - MeleeWeapon */
      , (1910076,   8,        460) /* Mass */
      , (1910076,   9,    1048576) /* ValidLocations - MeleeWeapon */
      , (1910076,  16,          1) /* ItemUseable - No */
-     , (1910076,  19,        100) /* Value */
+     , (1910076,  19,        50) /* Value */
      , (1910076,  44,          4) /* Damage */
      , (1910076,  45,          2) /* DamageType - Pierce */
      , (1910076,  46,          2) /* DefaultCombatStyle - OneHanded */

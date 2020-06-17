@@ -9,7 +9,7 @@ VALUES (1910185,   1,      32768) /* ItemType - Caster */
      , (1910185,   9,   16777216) /* ValidLocations - Held */
      , (1910185,  16,    6291460) /* ItemUseable - SourceWieldedTargetRemoteNeverWalk */
      , (1910185,  18,          1) /* UiEffects - Magical */
-     , (1910185,  19,        100) /* Value */
+     , (1910185,  19,        50) /* Value */
      , (1910185,  52,          1) /* ParentLocation - RightHand */
      , (1910185,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (1910185,  94,         16) /* TargetType - Creature */

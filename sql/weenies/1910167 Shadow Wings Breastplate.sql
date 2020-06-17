@@ -11,7 +11,7 @@ VALUES (1910167,   1,          2) /* ItemType - Armor */
      , (1910167,   8,        140) /* Mass */
      , (1910167,   9,        512) /* ValidLocations - ChestArmor */
      , (1910167,  16,          1) /* ItemUseable - No */
-     , (1910167,  19,       1000) /* Value */
+     , (1910167,  19,       150) /* Value */
      , (1910167,  27,          2) /* ArmorType - Leather */
      , (1910167,  28,        210) /* ArmorLevel */
      , (1910167,  53,        101) /* PlacementPosition - Resting */

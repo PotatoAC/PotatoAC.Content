@@ -10,7 +10,7 @@ VALUES (1910168,   1,          2) /* ItemType - Armor */
      , (1910168,   9,          1) /* ValidLocations - HeadWear */
      , (1910168,  16,          1) /* ItemUseable - No */
      , (1910168,  18,          1) /* UiEffects - Magical */
-     , (1910168,  19,       1000) /* Value */
+     , (1910168,  19,       100) /* Value */
      , (1910168,  28,        200) /* ArmorLevel */
      , (1910168,  33,          1) /* Bonded - Bonded */
      , (1910168,  53,        101) /* PlacementPosition - Resting */

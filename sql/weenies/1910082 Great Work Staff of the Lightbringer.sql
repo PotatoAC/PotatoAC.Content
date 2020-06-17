@@ -11,7 +11,7 @@ VALUES (1910082,   1,      32768) /* ItemType - Caster */
      , (1910082,   9,   16777216) /* ValidLocations - Held */
      , (1910082,  16,    6291460) /* ItemUseable - SourceWieldedTargetRemoteNeverWalk */
      , (1910082,  18,          1) /* UiEffects - Magical */
-     , (1910082,  19,        750) /* Value */
+     , (1910082,  19,        100) /* Value */
      , (1910082,  33,          1) /* Bonded - Bonded */
      , (1910082,  46,        512) /* DefaultCombatStyle - Magic */
      , (1910082,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */

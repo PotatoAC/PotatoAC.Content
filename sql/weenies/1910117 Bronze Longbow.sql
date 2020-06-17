@@ -10,7 +10,7 @@ VALUES (1910117,   1,        256) /* ItemType - MissileWeapon */
      , (1910117,   8,        140) /* Mass */
      , (1910117,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (1910117,  16,          1) /* ItemUseable - No */
-     , (1910117,  19,        500) /* Value */
+     , (1910117,  19,        50) /* Value */
      , (1910117,  44,          0) /* Damage */
      , (1910117,  46,         16) /* DefaultCombatStyle - Bow */
      , (1910117,  48,         47) /* WeaponSkill - MissileWeapons */

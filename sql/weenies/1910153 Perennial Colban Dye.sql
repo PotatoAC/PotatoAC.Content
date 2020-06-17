@@ -12,7 +12,7 @@ VALUES (1910153,   1,    4194304) /* ItemType - CraftCookingBase */
      , (1910153,  12,          1) /* StackSize */
      , (1910153,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
      , (1910153,  17,        167) /* RareId */
-     , (1910153,  19,        500) /* Value */
+     , (1910153,  19,        50) /* Value */
      , (1910153,  33,         -1) /* Bonded - Slippery */
      , (1910153,  53,        101) /* PlacementPosition - Resting */
      , (1910153,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

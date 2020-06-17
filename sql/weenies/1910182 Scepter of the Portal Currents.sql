@@ -9,7 +9,7 @@ VALUES (1910182,   1,      32768) /* ItemType - Caster */
      , (1910182,   9,   16777216) /* ValidLocations - Held */
      , (1910182,  16,     655364) /* ItemUseable - 655364 */
      , (1910182,  18,       1024) /* UiEffects - Slashing */
-     , (1910182,  19,        250) /* Value */
+     , (1910182,  19,        100) /* Value */
      , (1910182,  33,          1) /* Bonded - Bonded */
      , (1910182,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (1910182,  94,         16) /* TargetType - Creature */

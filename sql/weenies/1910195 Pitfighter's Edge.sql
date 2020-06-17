@@ -10,7 +10,7 @@ VALUES (1910195,   1,          1) /* ItemType - MeleeWeapon */
      , (1910195,   9,    1048576) /* ValidLocations - MeleeWeapon */
      , (1910195,  16,          1) /* ItemUseable - No */
      , (1910195,  17,        288) /* RareId */
-     , (1910195,  19,        250) /* Value */
+     , (1910195,  19,        100) /* Value */
      , (1910195,  45,          3) /* DamageType - Slash, Pierce */
      , (1910195,  46,          2) /* DefaultCombatStyle - OneHanded */
      , (1910195,  48,         46) /* WeaponSkill - FinesseWeapons */

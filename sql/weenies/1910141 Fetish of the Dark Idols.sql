@@ -14,7 +14,7 @@ VALUES (1910141,   1,        128) /* ItemType - Misc */
      , (1910141,  14,        700) /* StackUnitMass */
      , (1910141,  15,        250) /* StackUnitValue */
      , (1910141,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
-     , (1910141,  19,        250) /* Value */
+     , (1910141,  19,        50) /* Value */
      , (1910141,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (1910141,  94,        256) /* TargetType - MissileWeapon */;
 

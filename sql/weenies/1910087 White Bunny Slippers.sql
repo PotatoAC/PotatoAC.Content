@@ -11,7 +11,7 @@ VALUES (1910087,   1,          4) /* ItemType - Clothing */
      , (1910087,   8,        350) /* Mass */
      , (1910087,   9,        256) /* ValidLocations - FootWear */
      , (1910087,  16,          1) /* ItemUseable - No */
-     , (1910087,  19,        150) /* Value */
+     , (1910087,  19,        50) /* Value */
      , (1910087,  27,          2) /* ArmorType - Leather */
      , (1910087,  28,         30) /* ArmorLevel */
      , (1910087,  44,         10) /* Damage */

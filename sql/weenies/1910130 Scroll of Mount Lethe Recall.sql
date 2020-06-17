@@ -9,7 +9,7 @@ VALUES (1910130,   1,       8192) /* ItemType - Writable */
      , (1910130,   8,         90) /* Mass */
      , (1910130,   9,          0) /* ValidLocations - None */
      , (1910130,  16,          8) /* ItemUseable - Contained */
-     , (1910130,  19,        250) /* Value */
+     , (1910130,  19,        25) /* Value */
      , (1910130,  33,          1) /* Bonded - Bonded */
      , (1910130,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (1910130, 114,          1) /* Attuned - Attuned */;

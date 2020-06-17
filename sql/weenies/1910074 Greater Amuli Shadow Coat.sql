@@ -10,9 +10,9 @@ VALUES (1910074,   1,          2) /* ItemType - Armor */
      , (1910074,   5,       1600) /* EncumbranceVal */
      , (1910074,   8,       1000) /* Mass */
      , (1910074,   9,       6656) /* ValidLocations - ChestArmor, UpperArmArmor, LowerArmArmor */
-     , (1910074,  15,        300) /* StackUnitValue */
+     , (1910074,  15,        250) /* StackUnitValue */
      , (1910074,  16,          1) /* ItemUseable - No */
-     , (1910074,  19,        300) /* Value */
+     , (1910074,  19,        250) /* Value */
      , (1910074,  27,          8) /* ArmorType - Scalemail */
      , (1910074,  28,        190) /* ArmorLevel */
      , (1910074,  33,          1) /* Bonded - Bonded */

@@ -11,7 +11,7 @@ VALUES (1910079,   1,      32768) /* ItemType - Caster */
      , (1910079,   9,   16777216) /* ValidLocations - Held */
      , (1910079,  16,          1) /* ItemUseable - No */
      , (1910079,  18,          1) /* UiEffects - Magical */
-     , (1910079,  19,       5000) /* Value */
+     , (1910079,  19,       250) /* Value */
      , (1910079,  33,         -2) /* Bonded - Destroy */
      , (1910079,  46,        512) /* DefaultCombatStyle - Magic */
      , (1910079,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
@@ -27,7 +27,7 @@ VALUES (1910079,  29,       1) /* WeaponDefense */
      , (1910079,  39,     0.6) /* DefaultScale */;
 
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1910079,   1, 'Orb') /* Name */
+VALUES (1910079,   1, 'Invisible Orb') /* Name */
      , (1910079,  15, 'This Orb is invisible to players, visible to admins.') /* ShortDesc */;
 
 INSERT INTO `weenie_properties_d_i_d` (`object_Id`, `type`, `value`)

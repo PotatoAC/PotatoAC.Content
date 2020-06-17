@@ -10,7 +10,7 @@ VALUES (1910106,   1,        256) /* ItemType - MissileWeapon */
      , (1910106,   8,        640) /* Mass */
      , (1910106,   9,    4194304) /* ValidLocations - MissileWeapon */
      , (1910106,  16,          1) /* ItemUseable - No */
-     , (1910106,  19,        500) /* Value */
+     , (1910106,  19,        50) /* Value */
      , (1910106,  33,         -2) /* Bonded - Destroy */
      , (1910106,  37,       9999) /* ResistItemAppraisal */
      , (1910106,  44,          0) /* Damage */

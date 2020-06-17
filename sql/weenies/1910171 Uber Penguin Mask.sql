@@ -11,7 +11,7 @@ VALUES (1910171,   1,          2) /* ItemType - Armor */
      , (1910171,   8,         75) /* Mass */
      , (1910171,   9,          1) /* ValidLocations - HeadWear */
      , (1910171,  16,          1) /* ItemUseable - No */
-     , (1910171,  19,        250) /* Value */
+     , (1910171,  19,        25) /* Value */
      , (1910171,  27,          2) /* ArmorType - Leather */
      , (1910171,  28,         10) /* ArmorLevel */
      , (1910171,  53,        101) /* PlacementPosition - Resting */

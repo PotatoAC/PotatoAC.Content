@@ -11,7 +11,7 @@ VALUES (1910196,   1,          1) /* ItemType - MeleeWeapon */
      , (1910196,   9,    1048576) /* ValidLocations - MeleeWeapon */
      , (1910196,  16,          1) /* ItemUseable - No */
      , (1910196,  17,        204) /* RareId */
-     , (1910196,  19,        250) /* Value */
+     , (1910196,  19,        100) /* Value */
      , (1910196,  45,          2) /* DamageType - Pierce */
      , (1910196,  46,          1) /* DefaultCombatStyle - Unarmed */
      , (1910196,  47,          1) /* AttackType - Punch */

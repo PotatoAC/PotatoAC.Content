@@ -10,7 +10,7 @@ VALUES (1910176,   1,          2) /* ItemType - Armor */
      , (1910176,   5,        200) /* EncumbranceVal */
      , (1910176,   9,          1) /* ValidLocations - HeadWear */
      , (1910176,  16,          1) /* ItemUseable - No */
-     , (1910176,  19,        500) /* Value */
+     , (1910176,  19,        150) /* Value */
      , (1910176,  27,          2) /* ArmorType - Leather */
      , (1910176,  28,        210) /* ArmorLevel */
      , (1910176,  53,        101) /* PlacementPosition - Resting */

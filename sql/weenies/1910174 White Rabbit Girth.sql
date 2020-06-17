@@ -10,7 +10,7 @@ VALUES (1910174,   1,          2) /* ItemType - Armor */
      , (1910174,   9,       1024) /* ValidLocations - AbdomenArmor */
      , (1910174,  16,          1) /* ItemUseable - No */
      , (1910174,  18,          1) /* UiEffects - Magical */
-     , (1910174,  19,       1000) /* Value */
+     , (1910174,  19,       100) /* Value */
      , (1910174,  28,        400) /* ArmorLevel */
      , (1910174,  53,        101) /* PlacementPosition - Resting */
      , (1910174,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

@@ -9,7 +9,7 @@ VALUES (1910181,   1,          2) /* ItemType - Armor */
      , (1910181,   9,    2097152) /* ValidLocations - Shield */
      , (1910181,  16,          1) /* ItemUseable - No */
      , (1910181,  18,          1) /* UiEffects - Magical */
-     , (1910181,  19,       2500) /* Value */
+     , (1910181,  19,       150) /* Value */
      , (1910181,  28,        100) /* ArmorLevel */
      , (1910181,  51,          4) /* CombatUse - Shield */
      , (1910181,  52,          3) /* ParentLocation - Shield */

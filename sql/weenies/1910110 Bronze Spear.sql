@@ -10,7 +10,7 @@ VALUES (1910110,   1,          1) /* ItemType - MeleeWeapon */
      , (1910110,   8,        140) /* Mass */
      , (1910110,   9,    1048576) /* ValidLocations - MeleeWeapon */
      , (1910110,  16,          1) /* ItemUseable - No */
-     , (1910110,  19,        500) /* Value */
+     , (1910110,  19,        50) /* Value */
      , (1910110,  33,         -2) /* Bonded - Destroy */
      , (1910110,  37,       9999) /* ResistItemAppraisal */
      , (1910110,  44,         40) /* Damage */

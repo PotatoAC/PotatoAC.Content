@@ -11,7 +11,7 @@ VALUES (1910188,   1,      32768) /* ItemType - Caster */
      , (1910188,   9,   16777216) /* ValidLocations - Held */
      , (1910188,  16,    6291460) /* ItemUseable - SourceWieldedTargetRemoteNeverWalk */
      , (1910188,  17,        309) /* RareId */
-     , (1910188,  19,       1000) /* Value */
+     , (1910188,  19,       150) /* Value */
      , (1910188,  26,          1) /* AccountRequirements - AsheronsCall_Subscription */
      , (1910188,  46,        512) /* DefaultCombatStyle - Magic */
      , (1910188,  52,          1) /* ParentLocation - RightHand */

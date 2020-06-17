@@ -11,7 +11,7 @@ VALUES (1910083,   1,          2) /* ItemType - Armor */
      , (1910083,   8,        200) /* Mass */
      , (1910083,   9,          1) /* ValidLocations - HeadWear */
      , (1910083,  16,          1) /* ItemUseable - No */
-     , (1910083,  19,       1000) /* Value */
+     , (1910083,  19,       50) /* Value */
      , (1910083,  27,         32) /* ArmorType - Metal */
      , (1910083,  28,         10) /* ArmorLevel */
      , (1910083,  33,          1) /* Bonded - Bonded */

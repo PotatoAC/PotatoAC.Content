@@ -10,7 +10,7 @@ VALUES (1910121,   1,          1) /* ItemType - MeleeWeapon */
      , (1910121,   8,        750) /* Mass */
      , (1910121,   9,    1048576) /* ValidLocations - MeleeWeapon */
      , (1910121,  16,          1) /* ItemUseable - No */
-     , (1910121,  19,        500) /* Value */
+     , (1910121,  19,        50) /* Value */
      , (1910121,  44,         10) /* Damage */
      , (1910121,  45,          4) /* DamageType - Bludgeon */
      , (1910121,  46,          2) /* DefaultCombatStyle - OneHanded */

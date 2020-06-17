@@ -10,7 +10,7 @@ VALUES (1910166,   1,          2) /* ItemType - Armor */
      , (1910166,   9,    2097152) /* ValidLocations - Shield */
      , (1910166,  16,          1) /* ItemUseable - No */
      , (1910166,  18,         32) /* UiEffects - Fire */
-     , (1910166,  19,        250) /* Value */
+     , (1910166,  19,        10) /* Value */
      , (1910166,  28,          0) /* ArmorLevel */
      , (1910166,  33,          1) /* Bonded - Bonded */
      , (1910166,  36,       9999) /* ResistMagic */

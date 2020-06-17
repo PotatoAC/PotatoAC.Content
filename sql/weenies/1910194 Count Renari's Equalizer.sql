@@ -10,7 +10,7 @@ VALUES (1910194,   1,          1) /* ItemType - MeleeWeapon */
      , (1910194,   9,    1048576) /* ValidLocations - MeleeWeapon */
      , (1910194,  16,          1) /* ItemUseable - No */
      , (1910194,  17,        247) /* RareId */
-     , (1910194,  19,        500) /* Value */
+     , (1910194,  19,        100) /* Value */
      , (1910194,  45,          1) /* DamageType - Slash */
      , (1910194,  46,          2) /* DefaultCombatStyle - OneHanded */
      , (1910194,  47,          4) /* AttackType - Slash */

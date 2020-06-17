@@ -10,7 +10,7 @@ VALUES (1910169,   1,          4) /* ItemType - Clothing */
      , (1910169,   5,       1400) /* EncumbranceVal */
      , (1910169,   9,      32544) /* ValidLocations - HandWear, Armor */
      , (1910169,  16,          1) /* ItemUseable - No */
-     , (1910169,  19,       1000) /* Value */
+     , (1910169,  19,       100) /* Value */
      , (1910169,  28,         10) /* ArmorLevel */
      , (1910169,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (1910169, 151,          9) /* HookType - Floor, Yard */;

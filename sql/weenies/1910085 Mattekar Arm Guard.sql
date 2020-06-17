@@ -12,7 +12,7 @@ VALUES (1910085,   1,          2) /* ItemType - Armor */
      , (1910085,   9,         32) /* ValidLocations - HandWear */
      , (1910085,  16,          1) /* ItemUseable - No */
      , (1910085,  18,          1) /* UiEffects - Magical */
-     , (1910085,  19,         10) /* Value */
+     , (1910085,  19,         5) /* Value */
      , (1910085,  27,          2) /* ArmorType - Leather */
      , (1910085,  28,         80) /* ArmorLevel */
      , (1910085,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

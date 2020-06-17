@@ -11,7 +11,7 @@ VALUES (1910193,   1,          2) /* ItemType - Armor */
      , (1910193,   9,    2097152) /* ValidLocations - Shield */
      , (1910193,  16,          1) /* ItemUseable - No */
      , (1910193,  17,        228) /* RareId */
-     , (1910193,  19,        500) /* Value */
+     , (1910193,  19,        100) /* Value */
      , (1910193,  28,          0) /* ArmorLevel */
      , (1910193,  53,        101) /* PlacementPosition - Resting */
      , (1910193,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

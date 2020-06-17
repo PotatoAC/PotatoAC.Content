@@ -11,7 +11,7 @@ VALUES (1910069,   1,          2) /* ItemType - Armor */
      , (1910069,   8,        150) /* Mass */
      , (1910069,   9,          1) /* ValidLocations - HeadWear */
      , (1910069,  16,          1) /* ItemUseable - No */
-     , (1910069,  19,       1000) /* Value */
+     , (1910069,  19,       200) /* Value */
      , (1910069,  27,         32) /* ArmorType - Metal */
      , (1910069,  28,        230) /* ArmorLevel */
      , (1910069,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

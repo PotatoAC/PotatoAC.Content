@@ -12,7 +12,7 @@ VALUES (1910072,   1,          2) /* ItemType - Armor */
      , (1910072,   9,      32512) /* ValidLocations - Armor */
      , (1910072,  15,        500) /* StackUnitValue */
      , (1910072,  16,          1) /* ItemUseable - No */
-     , (1910072,  19,        500) /* Value */
+     , (1910072,  19,        250) /* Value */
      , (1910072,  27,          1) /* ArmorType - Cloth */
      , (1910072,  28,        150) /* ArmorLevel */
      , (1910072,  53,        101) /* PlacementPosition - Resting */

@@ -10,7 +10,7 @@ VALUES (1910190,   1,          1) /* ItemType - MeleeWeapon */
      , (1910190,   9,   33554432) /* ValidLocations - TwoHanded */
      , (1910190,  16,          1) /* ItemUseable - No */
      , (1910190,  17,        308) /* RareId */
-     , (1910190,  19,        500) /* Value */
+     , (1910190,  19,        100) /* Value */
      , (1910190,  45,          1) /* DamageType - Slash */
      , (1910190,  46,          8) /* DefaultCombatStyle - TwoHanded */
      , (1910190,  47,          4) /* AttackType - Slash */

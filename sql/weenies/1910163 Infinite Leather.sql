@@ -15,7 +15,7 @@ VALUES (1910163,   1,        128) /* ItemType - Misc */
      , (1910163,  15,       2500) /* StackUnitValue */
      , (1910163,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
      , (1910163,  17,        152) /* RareId */
-     , (1910163,  19,       2500) /* Value */
+     , (1910163,  19,       100) /* Value */
      , (1910163,  33,         -1) /* Bonded - Slippery */
      , (1910163,  53,        101) /* PlacementPosition - Resting */
      , (1910163,  92,        100) /* Structure */

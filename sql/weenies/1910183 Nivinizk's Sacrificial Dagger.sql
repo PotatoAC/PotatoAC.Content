@@ -9,7 +9,7 @@ VALUES (1910183,   1,      32768) /* ItemType - Caster */
      , (1910183,   9,   16777216) /* ValidLocations - Held */
      , (1910183,  16,     655364) /* ItemUseable - 655364 */
      , (1910183,  18,          1) /* UiEffects - Magical */
-     , (1910183,  19,       1500) /* Value */
+     , (1910183,  19,       50) /* Value */
      , (1910183,  52,          1) /* ParentLocation - RightHand */
      , (1910183,  53,          1) /* PlacementPosition - RightHandCombat */
      , (1910183,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */

@@ -11,7 +11,7 @@ VALUES (1910137,   1,          2) /* ItemType - Armor */
      , (1910137,   8,         15) /* Mass */
      , (1910137,   9,        512) /* ValidLocations - ChestArmor */
      , (1910137,  16,          1) /* ItemUseable - No */
-     , (1910137,  19,       1000) /* Value */
+     , (1910137,  19,       200) /* Value */
      , (1910137,  27,         32) /* ArmorType - Metal */
      , (1910137,  28,        100) /* ArmorLevel */
      , (1910137,  33,          1) /* Bonded - Bonded */

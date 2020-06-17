@@ -10,7 +10,7 @@ VALUES (1910097,   1,          2) /* ItemType - Armor */
      , (1910097,   8,        230) /* Mass */
      , (1910097,   9,    2097152) /* ValidLocations - Shield */
      , (1910097,  16,          1) /* ItemUseable - No */
-     , (1910097,  19,        500) /* Value */
+     , (1910097,  19,        50) /* Value */
      , (1910097,  27,          2) /* ArmorType - Leather */
      , (1910097,  28,         20) /* ArmorLevel */
      , (1910097,  51,          4) /* CombatUse - Shield */
