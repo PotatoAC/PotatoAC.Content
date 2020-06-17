@@ -226,13 +226,13 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 1910046, -1, 0, 0, False) /* Armored Skeleton Guise */
      , (1910008, 4, 1910047, -1, 0, 0, False) /* Scarecrow Guise */
      , (1910008, 4, 1910048, -1, 0, 0, False) /* Peg Legs */
-     , (1910008, 4, 1910049, -1, 0, 0, False) /* Amber Ape Keg */
-     , (1910008, 4, 1910051, -1, 0, 0, False) /* Bobo's Stout Keg */
-     , (1910008, 4, 1910052, -1, 0, 0, False) /* Tusker Spit Ale Keg */
+     , (1910008, 4, 29132, -1, 0, 0, False) /* Amber Ape Keg */
+     , (1910008, 4, 29140, -1, 0, 0, False) /* Bobo's Stout Keg */
+     , (1910008, 4, 29143, -1, 0, 0, False) /* Tusker Spit Ale Keg */
      , (1910008, 4, 1910053, -1, 0, 0, False) /* Ghost Guise */
-     , (1910008, 4, 1910054, -1, 0, 0, False) /* Apothecary Zongo's Stout Keg */
-     , (1910008, 4, 1910055, -1, 0, 0, False) /* Duke Raoul's Distillation Keg */
-     , (1910008, 4, 1910056, -1, 0, 0, False) /* Hunter's Stock Amber Keg */
+     , (1910008, 4, 32267, -1, 0, 0, False) /* Apothecary Zongo's Stout Keg */
+     , (1910008, 4, 32268, -1, 0, 0, False) /* Duke Raoul's Distillation Keg */
+     , (1910008, 4, 32269, -1, 0, 0, False) /* Hunter's Stock Amber Keg */
      , (1910008, 4, 1910057, -1, 0, 0, False) /* Rynthid Berserkers Mask */
      , (1910008, 4, 1910058, -1, 0, 0, False) /* Rynthid Ravager Mask */
      , (1910008, 4, 1910059, -1, 0, 0, False) /* Rynthid Sorcerer of Torment Mask */
@@ -311,18 +311,18 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 1910139, -1, 0, 0, False) /* Create Envoy's Shield (1910139) for Shop */
      , (1910008, 4, 1910141, -1, 0, 0, False) /* Create Fetish of the Dark Idols (1910141) for Shop */
      , (1910008, 4, 1910143, -1, 0, 0, False) /* Create Armored Undead Guise (1910143) for Shop */
-     , (1910008, 4, 1910152, -1, 0, 0, False) /* Create Perennial Thananim Dye (1910152) for Shop */
-     , (1910008, 4, 1910153, -1, 0, 0, False) /* Create Perennial Colban Dye (1910153) for Shop */
-     , (1910008, 4, 1910154, -1, 0, 0, False) /* Create Perennial Botched Dye (1910154) for Shop */
-     , (1910008, 4, 1910155, -1, 0, 0, False) /* Create Perennial Verdalim Dye (1910155) for Shop */
-     , (1910008, 4, 1910156, -1, 0, 0, False) /* Create Perennial Hennacin Dye (1910156) for Shop */
-     , (1910008, 4, 1910157, -1, 0, 0, False) /* Create Perennial Berimphur Dye (1910157) for Shop */
-     , (1910008, 4, 1910158, -1, 0, 0, False) /* Create Perennial Lapyan Dye (1910158) for Shop */
-     , (1910008, 4, 1910159, -1, 0, 0, False) /* Create Perennial Minalim Dye (1910159) for Shop */
-     , (1910008, 4, 1910160, -1, 0, 0, False) /* Create Perennial Relanim Dye (1910160) for Shop */
-     , (1910008, 4, 1910161, -1, 0, 0, False) /* Create Perennial Argenory Dye (1910161) for Shop */
-     , (1910008, 4, 1910162, -1, 0, 0, False) /* Create Infinite Ivory (1910162) for Shop */
-     , (1910008, 4, 1910163, -1, 0, 0, False) /* Create Infinite Leather (1910163) for Shop */
+     , (1910008, 4, 30082, -1, 0, 0, False) /* Create Perennial Thananim Dye (30082) for Shop */
+     , (1910008, 4, 30083, -1, 0, 0, False) /* Create Perennial Colban Dye (30083) for Shop */
+     , (1910008, 4, 30084, -1, 0, 0, False) /* Create Perennial Botched Dye (30084) for Shop */
+     , (1910008, 4, 30085, -1, 0, 0, False) /* Create Perennial Verdalim Dye (30085) for Shop */
+     , (1910008, 4, 30086, -1, 0, 0, False) /* Create Perennial Hennacin Dye (30086) for Shop */
+     , (1910008, 4, 30087, -1, 0, 0, False) /* Create Perennial Berimphur Dye (30087) for Shop */
+     , (1910008, 4, 30088, -1, 0, 0, False) /* Create Perennial Lapyan Dye (30088) for Shop */
+     , (1910008, 4, 30089, -1, 0, 0, False) /* Create Perennial Minalim Dye (30089) for Shop */
+     , (1910008, 4, 30090, -1, 0, 0, False) /* Create Perennial Relanim Dye (30090) for Shop */
+     , (1910008, 4, 30091, -1, 0, 0, False) /* Create Perennial Argenory Dye (30091) for Shop */
+     , (1910008, 4, 30092, -1, 0, 0, False) /* Create Infinite Ivory (30092) for Shop */
+     , (1910008, 4, 30093, -1, 0, 0, False) /* Create Infinite Leather (30093) for Shop */
      , (1910008, 4, 1910164, -1, 0, 0, False) /* Create Limitless Lockpick (1910164) for Shop */
      , (1910008, 4, 1910165, -1, 0, 0, False) /* Create Pack (1910165) for Shop */
      , (1910008, 4, 1910166, -1, 0, 0, False) /* Create Raven Aegis (1910166) for Shop */

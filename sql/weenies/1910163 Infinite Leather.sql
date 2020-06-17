@@ -12,7 +12,7 @@ VALUES (1910163,   1,        128) /* ItemType - Misc */
      , (1910163,  12,          1) /* StackSize */
      , (1910163,  13,          5) /* StackUnitEncumbrance */
      , (1910163,  14,          5) /* StackUnitMass */
-     , (1910163,  15,       2500) /* StackUnitValue */
+     , (1910163,  15,       100) /* StackUnitValue */
      , (1910163,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
      , (1910163,  17,        152) /* RareId */
      , (1910163,  19,       100) /* Value */
