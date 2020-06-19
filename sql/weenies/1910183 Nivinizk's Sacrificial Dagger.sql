@@ -21,8 +21,7 @@ VALUES (1910183,  11, True ) /* IgnoreCollisions */
      , (1910183,  13, True ) /* Ethereal */
      , (1910183,  14, True ) /* GravityStatus */
      , (1910183,  19, True ) /* Attackable */
-     , (1910183,  22, True ) /* Inscribable */
-     , (1910183,  91, True ) /* Retained */;
+     , (1910183,  22, True ) /* Inscribable */;
 
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1910183,   1, 'Nivinizk''s Sacrificial Dagger') /* Name */;
