@@ -17,7 +17,7 @@ VALUES (1910238,   1,          2) /* ItemType - Armor */
      , (1910238,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (1910238, 265,         14) /* EquipmentSetId - Adepts */
      , (1910238, 169,  118163214) /* TsysMutationData */
-	 , (1910238, 114,          1) /* Attuned */
+	, (1910238, 114,          1) /* Attuned */
      , (1910238,  33,          1) /* Bonded - Bonded */;
 
 INSERT INTO `weenie_properties_bool` (`object_Id`, `type`, `value`)

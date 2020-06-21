@@ -31,9 +31,8 @@ VALUES (1910232,   1, True ) /* Stuck */
      , (1910232,  35, True ) /* DefaultLocked */
      , (1910232,  86, True ) /* ChestRegenOnClose */;
 
-
 INSERT INTO `weenie_properties_float` (`object_Id`, `type`, `value`)
-VALUES (1910232,  11,      180) /* ResetInterval */
+VALUES (1910232,  11,     180) /* ResetInterval */
      , (1910232,  43,       1) /* GeneratorRadius */
      , (1910232,  54,       1) /* UseRadius */;
 
@@ -50,23 +49,27 @@ VALUES (1910232,   1,   33554556) /* Setup */
      , (1910232,  22,  872415275) /* PhysicsEffectTable */;
 
 INSERT INTO `weenie_properties_generator` (`object_Id`, `probability`, `weenie_Class_Id`, `delay`, `init_Create`, `max_Create`, `when_Create`, `where_Create`, `stack_Size`, `palette_Id`, `shade`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES 
-(1910232, -1, 1000, 0, 1, 1, 2, 72, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate RANDOMLY GENERATED TREASURE from Loot Tier 8 from Death Treasure Table id: 1000 (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: ContainTreasure */
-
-,(1910232, 0.05, 1910238, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Wizardly Coat  (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
-     , (1910232, 0.1, 1910239, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Wizardly Gauntlets (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
-     , (1910232, 0.15, 1910240, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Wizardly Basinet (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
-     , (1910232, 0.2, 1910241, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Wizardly Leggings (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
-     , (1910232, 0.25, 1910242, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Wizardly Boots (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
-     , (1910232, 0.3, 1910228, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Astute Leggings (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
-     , (1910232, 0.35, 1910229, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Astute Coat (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
-     , (1910232, 0.4, 1910230, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Astute Kabuton (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
-     , (1910232, 0.45, 1910248, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Astute Sandals (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
-     , (1910232, 0.5, 1910249, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Astute Gloves (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
-     , (1910232, 0.55, 1910233, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
-     , (1910232, 0.6, 1910234, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
-     , (1910232, 0.65, 1910235, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
-     , (1910232, 0.7, 1910236, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
-     , (1910232, 0.75, 1910237, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
-     , (1910232, 0.9, 29295, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
-     , (1910232, 1, 60002, 0, 1, 1, 2, 8, 100, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
+VALUES (1910232, -1, 1000, 0, 1, 1, 2, 72, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate RANDOMLY GENERATED TREASURE from Loot Tier 8 from Death Treasure Table id: 1000 (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: ContainTreasure */
+     , (1910232, 0.04, 1910238, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Wizardly Studded Leather Coat (1910238) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.08, 1910239, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Wizardly Studded Leather Gauntlets (1910239) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.12, 1910240, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Wizardly Studded Leather Basinet (1910240) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.16, 1910241, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Wizardly Studded Leather Leggings (1910241) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.20, 1910242, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Wizardly Studded Leather Boots (1910242) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.24, 1910228, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Astute Leggings (1910228) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.28, 1910229, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Astute Coat (1910229) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.32, 1910230, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Astute Kabuton (1910230) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.36, 1910248, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Astute Sandals (1910248) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.40, 1910249, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Astute Gloves (1910249) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.44, 1910233, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Stalwart Gauntlets (1910233) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.48, 1910234, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Stalwart Helm (1910234) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.52, 1910235, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Stalwart Sollerets (1910235) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.56, 1910236, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Stalwart Coat (1910236) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.60, 1910237, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Stalwart Leggings (1910237) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 0.64, 1910243, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
+     , (1910232, 0.68, 1910244, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
+     , (1910232, 0.72, 1910245, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
+     , (1910232, 0.76, 1910246, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
+     , (1910232, 0.80, 1910247, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)
+     , (1910232, 0.85, 46423, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* stipend */
+     , (1910232, 0.90, 46441, 0, 1, 1, 2, 8, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Boxed Augmentation Gem (46441) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */
+     , (1910232, 1, 60002, 0, 1, 1, 2, 8, 50, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Pk Trophy (60002) (x1 up to max of 1) - Regenerate upon PickUp - Location to (re)Generate: Contain */;

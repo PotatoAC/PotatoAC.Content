@@ -19,7 +19,7 @@ VALUES (1910240,   1,          2) /* ItemType - Armor */
      , (1910240, 150,        103) /* HookPlacement - Hook */
      , (1910240, 151,          2) /* HookType - Wall */
      , (1910240, 169,  168494606) /* TsysMutationData */
-	 , (1910240, 114,          1) /* Attuned */
+     , (1910240, 114,          1) /* Attuned */
      , (1910240,  33,          1) /* Bonded - Bonded */;
 
 INSERT INTO `weenie_properties_bool` (`object_Id`, `type`, `value`)

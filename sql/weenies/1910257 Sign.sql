@@ -40,9 +40,11 @@ If you\'ve made it this far, then you are certainly a worthy contender.
 The chest beside me will be lootable with a key obtained from the banderlings at a 2% drop rate.
 
 -Chest Droprates-
-75%: One random piece of T7.5 Quest Armor (No Drop, No Give) 
-15%: Blank augmentation gem
-10%: 100 pk trophies
+80%: One random piece of T7.5 Quest Armor (No Drop, No Give) 
+10%: 50 pk trophies
+5%: Blank augmentation gem
+5%: Stipend
+
 The above item will be always first (leftmost) in the list of items
 
 The rest of the items will be T8 (endgame as of June 2020) loot.');

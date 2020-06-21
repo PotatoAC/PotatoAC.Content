@@ -1,13 +1,13 @@
 DELETE FROM `weenie` WHERE `class_Id` = 1910244;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (1910244, 'custodianshirt', 2, '2005-02-09 10:00:00') /* Clothing */;
+VALUES (1910244, 'ace1910244-custodianshirt', 2, '2005-02-09 10:00:00') /* Clothing */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1910244,   1,          2) /* ItemType - Armor */
      , (1910244,   3,          8) /* PaletteTemplate - Green */
      , (1910244,   4,      15360) /* ClothingPriority - OuterwearChest, OuterwearAbdomen, OuterwearUpperArms, OuterwearLowerArms */
-     , (1910244,   5,       1250) /* EncumbranceVal */
+     , (1910244,   5,       10) /* EncumbranceVal */
      , (1910244,   8,        500) /* Mass */
      , (1910244,   9,       7680) /* ValidLocations - ChestArmor, AbdomenArmor, UpperArmArmor, LowerArmArmor */
      , (1910244,  16,          1) /* ItemUseable - No */
@@ -48,6 +48,7 @@ VALUES (1910244,   1,   33554644) /* Setup */
      , (1910244,  36,  234881046) /* MutateFilter */;
 
       INSERT INTO `weenie_properties_spell_book` (`object_Id`, `spell`, `probability`)
-VALUES (1910244,  6103,      2)  /* Legendary Coordination */
-     , (1910244,  4296,      2)  /* Incantation of Coordination Other */
-     , (1910244,  4679,      2)  /* Epic Storm Ward */;
+VALUES (1910244,  6107,      2)  /* Legendary Strength */
+     , (1910244,  4324,      2)  /* Incantation of Strength Other */
+     , (1910244,  4675,      2)  /* Epic Flame Ward */
+     , (1910244,  4676,      2)  /* Epic Frost Ward */;

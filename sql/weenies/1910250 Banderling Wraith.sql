@@ -178,8 +178,8 @@ VALUES (@parent_id,  0,  18 /* DirectBroadcast */, 0, 1, NULL, 'The Banderling W
 
 INSERT INTO `weenie_properties_create_list` (`object_Id`, `destination_Type`, `weenie_Class_Id`, `stack_Size`, `palette`, `shade`, `try_To_Bond`)
 VALUES 
-      (1910250, 9,  1910231,  0, 0, 0.01, False) /* Create Key of Unfavorable Fortune for ContainTreasure */
-     , (1910250, 9,     0,  0, 0, 0.99, False) /* Create nothing for ContainTreasure */
+      (1910250, 9,  1910231,  0, 0, 0.1, False) /* Create Key of Unfavorable Fortune for ContainTreasure */
+     , (1910250, 9,     0,  0, 0, 0.9, False) /* Create nothing for ContainTreasure */
      , (1910250, 9,  20630,  0, 0, 0.04, False) /* Create MMD (20630) for ContainTreasure */
      , (1910250, 9,     0,  0, 0, 0.96, False) /* Create nothing for ContainTreasure */
      , (1910250, 9,  60002,  0, 0, 0.03, False) /* Create PK Trophy (60002) for ContainTreasure */

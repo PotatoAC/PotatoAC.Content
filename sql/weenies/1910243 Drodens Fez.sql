@@ -1,13 +1,13 @@
 DELETE FROM `weenie` WHERE `class_Id` = 1910243;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (1910243, 'drodensfez', 2, '2019-02-04 06:52:23') /* Clothing */;
+VALUES (1910243, 'ace1910243-drodensfez', 2, '2019-02-04 06:52:23') /* Clothing */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1910243,   1,          2) /* ItemType - Armor */
      , (1910243,   3,         14) /* PaletteTemplate - Red */
      , (1910243,   4,      16384) /* ClothingPriority - Head */
-     , (1910243,   5,         23) /* EncumbranceVal */
+     , (1910243,   5,         10) /* EncumbranceVal */
      , (1910243,   8,         15) /* Mass */
      , (1910243,   9,          1) /* ValidLocations - HeadWear */
      , (1910243,  16,          1) /* ItemUseable - No */
@@ -16,7 +16,7 @@ VALUES (1910243,   1,          2) /* ItemType - Armor */
      , (1910243,  28,        535) /* ArmorLevel */
      , (1910243,  53,        101) /* PlacementPosition - Resting */
      , (1910243,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
-     , (1910243, 265,      16) /* EquipmentSetId - Defenders */
+     , (1910243, 265,         16) /* EquipmentSetId - Defenders */
      , (1910243, 150,        103) /* HookPlacement - Hook */
      , (1910243, 151,          2) /* HookType - Wall */
      , (1910243, 169,  218104336) /* TsysMutationData */
@@ -43,7 +43,7 @@ VALUES (1910243,  12, 0.800000011920929) /* Shade */
      , (1910243, 165,       1) /* ArmorModVsNether */;
 
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1910243,   1, 'Drodens Fez') /* Name */;
+VALUES (1910243,   1, 'Droden''s Fez') /* Name */;
 
 INSERT INTO `weenie_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1910243,   1,   33556235) /* Setup */
