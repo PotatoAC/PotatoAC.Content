@@ -37,7 +37,7 @@ Welcome to PotatoAC.
 
 If you\'ve made it this far, then you are certainly a worthy contender.
 
-The chest beside me will be lootable with a key obtained from the banderlings at a 2% drop rate.
+The chest beside me will be lootable with a key obtained from the banderlings at a 8% drop rate.
 
 -Chest Droprates-
 80%: One random piece of T7.5 Quest Armor (No Drop, No Give) 
