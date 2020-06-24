@@ -9,7 +9,7 @@ VALUES (1910245,   1,          2) /* ItemType - Armor */
      , (1910245,   4,        768) /* ClothingPriority - OuterwearUpperLegs, OuterwearLowerLegs */
      , (1910245,   5,       10) /* EncumbranceVal */
      , (1910245,   8,        500) /* Mass */
-     , (1910245,   9,      25600) /* ValidLocations - AbdomenWear, UpperLegWear, LowerLegWear */
+     , (1910245,   9,      24576) /* ValidLocations - UpperLegWear, LowerLegWear */
      , (1910245,  16,          1) /* ItemUseable - No */
      , (1910245,  19,      10000) /* Value */
      , (1910245,  27,          1) /* ArmorType - Cloth */
