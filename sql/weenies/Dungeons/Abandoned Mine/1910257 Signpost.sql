@@ -35,15 +35,16 @@ INSERT INTO `weenie_properties_book_page_data` (`object_Id`, `page_Id`, `author_
 VALUES (1910257, 0, 4294967295, ' ', 'prewritten', False, '
 Welcome to PotatoAC. 
 
-If you\'ve made it this far, then you are certainly a worthy contender.
+If you''ve made it this far, then you are certainly a worthy contender.
 
-The chest beside me will be lootable with a key obtained from the banderlings at a 8% drop rate.
+The chest beside me will be lootable with a key obtained from the banderlings at a 7% drop rate.
 
 -Chest Droprates-
 80%: One random piece of T7.5 Quest Armor (No Drop, No Give) 
-10%: 50 pk trophies
+5%: 30 pk trophies
 5%: Blank augmentation gem
 5%: Stipend
+5%: 100 MMDs
 
 The above item will be always first (leftmost) in the list of items
 
