@@ -439,3 +439,7 @@ VALUES (0x701C90AE, 1910232, 0x01C90113, 89.2729, -184.951, -72, -0.999999, 0, 0
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
 VALUES (0x701C90B0, 1910257, 0x01C90114, 90.9241, -185.313, -71.945, 0.999846, 0, 0, 0.0175491, False, '2020-06-19 07:00:58'); /* Signpost */
 /* @teleloc 0x01C90114 [90.924103 -185.313004 -71.945000] 0.999846 0.000000 0.000000 0.017549 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x701C90B1, 1910225, 0x01C9011F, 96.9763, -210.041, -72.063, 0.720488, 0, 0, -0.693467, False, '2020-06-30 04:20:21'); /* Death Isle */
+/* @teleloc 0x01C9011F [96.976303 -210.041000 -72.063004] 0.720488 0.000000 0.000000 -0.693467 */

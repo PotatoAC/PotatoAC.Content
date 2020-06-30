@@ -37,6 +37,10 @@ VALUES (0x70174007, 29055, 0x0174012D, 60, -10, 0.005, 0, 0, 0, -1, False, '2005
 /* @teleloc 0x0174012D [60.000000 -10.000000 0.005000] 0.000000 0.000000 0.000000 -1.000000 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x70174008, 1910225, 0x0174012C, 60.4608, 0.380303, 0.222179, -0.0207057, 0, 0, 0.999786, False, '2020-06-30 04:41:55'); /* Death Isle */
+/* @teleloc 0x0174012C [60.460800 0.380303 0.222179] -0.020706 0.000000 0.000000 0.999786 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
 VALUES (0x71134103, 150002, 0x01740125, 49.5312, -88.8985, 0.055, 0.00650619, 0, 0, -0.999979, False, '2020-05-21 16:56:37'); /* Linkable Monster Generator ( 2 Min.) */
 /* @teleloc 0x01740125 [49.531200 -88.898499 0.055000] 0.006506 0.000000 0.000000 -0.999979 */
 
