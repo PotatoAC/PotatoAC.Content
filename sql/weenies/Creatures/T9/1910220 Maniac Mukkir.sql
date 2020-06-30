@@ -55,7 +55,7 @@ VALUES (1910220,   1,       5) /* HeartbeatInterval */
      , (1910220,  73,       1) /* ResistStaminaBoost */
      , (1910220,  74,       1) /* ResistManaDrain */
      , (1910220,  75,       1) /* ResistManaBoost */
-     , (1910220,  80,       3) /* AiUseMagicDelay */
+     , (1910220,  80,       2) /* AiUseMagicDelay */
      , (1910220, 104,       5) /* ObviousRadarRange */
      , (1910220, 122,       2) /* AiAcquireHealth */
      , (1910220, 125,       1) /* ResistHealthDrain */
@@ -89,17 +89,17 @@ VALUES (1910220,   1,   22000, 0, 0, 22000) /* MaxHealth */
      , (1910220,   5,   10000, 0, 0, 10000) /* MaxMana */;
 
 INSERT INTO `weenie_properties_skill` (`object_Id`, `type`, `level_From_P_P`, `s_a_c`, `p_p`, `init_Level`, `resistance_At_Last_Check`, `last_Used_Time`)
-VALUES (1910220,  6, 0, 3, 0, 280, 0, 1982.44181784858) /* MeleeDefense        Specialized */
+VALUES (1910220,  6, 0, 3, 0, 380, 0, 1982.44181784858) /* MeleeDefense        Specialized */
      , (1910220,  7, 0, 3, 0, 358, 0, 1982.44181784858) /* MissileDefense      Specialized */
-     , (1910220, 13, 0, 3, 0, 250, 0, 1982.44181784858) /* UnarmedCombat       Specialized */
+     , (1910220, 13, 0, 3, 0, 450, 0, 1982.44181784858) /* UnarmedCombat       Specialized */
      , (1910220, 14, 0, 2, 0, 300, 0, 1982.44181784858) /* ArcaneLore          Trained */
-     , (1910220, 15, 0, 3, 0, 150, 0, 1982.44181784858) /* MagicDefense        Specialized */
+     , (1910220, 15, 0, 3, 0, 200, 0, 1982.44181784858) /* MagicDefense        Specialized */
      , (1910220, 20, 0, 2, 0,  50, 0, 1982.44181784858) /* Deception           Trained */
      , (1910220, 22, 0, 2, 0,  10, 0, 1982.44181784858) /* Jump                Trained */
      , (1910220, 24, 0, 2, 0,  50, 0, 1982.44181784858) /* Run                 Trained */
      , (1910220, 31, 0, 3, 0, 9000, 0, 1982.44181784858) /* CreatureEnchantment Specialized */
      , (1910220, 33, 0, 3, 0, 9000, 0, 1982.44181784858) /* LifeMagic           Specialized */
-     , (1910220, 34, 0, 3, 0, 15, 0, 1982.44181784858) /* WarMagic            Specialized */;
+     , (1910220, 34, 0, 3, 0, 150, 0, 1982.44181784858) /* WarMagic            Specialized */;
 
 INSERT INTO `weenie_properties_body_part` (`object_Id`, `key`, `d_Type`, `d_Val`, `d_Var`, `base_Armor`, `armor_Vs_Slash`, `armor_Vs_Pierce`, `armor_Vs_Bludgeon`, `armor_Vs_Cold`, `armor_Vs_Fire`, `armor_Vs_Acid`, `armor_Vs_Electric`, `armor_Vs_Nether`, `b_h`, `h_l_f`, `m_l_f`, `l_l_f`, `h_r_f`, `m_r_f`, `l_r_f`, `h_l_b`, `m_l_b`, `l_l_b`, `h_r_b`, `m_r_b`, `l_r_b`)
 VALUES (1910220,  0,  20,  180,    0.55,  400,  480,  440,  360,  480,  560,  440,  560,    0, 1, 0.33,    0,    0, 0.33,    0,    0, 0.33,    0,    0, 0.33,    0,    0) /* Head */
@@ -116,7 +116,7 @@ INSERT INTO `weenie_properties_spell_book` (`object_Id`, `spell`, `probability`)
 VALUES (1910220,  1161,   2.02)  /* Heal Self VI */
      , (1910220,  4312,   2.03)  /* Incantation Imperil */
      , (1910220,  4473,   2.03)  /* Incantation Acid Vuln */
-     , (1910220,  4477,   2.03)  /* Incantation Acid Vuln */
+     , (1910220,  4421,   2.03)  /* Incantation Acid Arc */
      , (1910220,  2717,   2.10)  /* Acid Arc VII */
      , (1910220,  4432,   2.01)  /* Incantation of Acid Streak */;
 
