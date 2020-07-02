@@ -6,7 +6,7 @@ VALUES (1910075, 'ace1910075-leggingsamullianshadowgreater', 2, '2005-02-09 10:0
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1910075,   1,          2) /* ItemType - Armor */
      , (1910075,   3,         18) /* PaletteTemplate - YellowBrown */
-     , (1910075,   4,       2816) /* ClothingPriority - OuterwearUpperLegs, OuterwearLowerLegs, OuterwearAbdomen */
+     , (1910075,   4,       2048) /* ClothingPriority - OuterwearAbdomen */
      , (1910075,   5,       2288) /* EncumbranceVal */
      , (1910075,   8,       1275) /* Mass */
      , (1910075,   9,      25600) /* ValidLocations - AbdomenArmor, UpperLegArmor, LowerLegArmor */

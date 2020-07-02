@@ -6,7 +6,7 @@ VALUES (1910074, 'ace1910074-coatamullianshadowgreater', 2, '2005-02-09 10:00:00
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1910074,   1,          2) /* ItemType - Armor */
      , (1910074,   3,         21) /* PaletteTemplate - Gold */
-     , (1910074,   4,      13312) /* ClothingPriority - OuterwearChest, OuterwearUpperArms, OuterwearLowerArms */
+     , (1910074,   4,      1024) /* ClothingPriority - Chest */
      , (1910074,   5,       1600) /* EncumbranceVal */
      , (1910074,   8,       1000) /* Mass */
      , (1910074,   9,       6656) /* ValidLocations - ChestArmor, UpperArmArmor, LowerArmArmor */
