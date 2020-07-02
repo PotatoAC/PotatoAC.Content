@@ -242,6 +242,7 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 1910070, -1, 0, 0, False) /* Create Ice Heaume of Frore (1910070) for Shop */
      , (1910008, 4, 1910071, -1, 0, 0, False) /* Create Tremblant's Ivory Staff (1910071) for Shop */
      , (1910008, 4, 1910072, -1, 0, 0, False) /* Create Hoary Mattekar Robe (1910072) for Shop */
+     , (1910008, 4, 1910262, -1, 0, 0, False) /* Create Focusing Stone (1910262) for Shop */
      , (1910008, 4, 1910073, -1, 0, 0, False) /* Create Impious Staff (1910073) for Shop */
      , (1910008, 4, 1910074, -1, 0, 0, False) /* Create Greater Amuli Shadow Coat (1910074) for Shop */
      , (1910008, 4, 1910075, -1, 0, 0, False) /* Create Greater Amuli Shadow Leggings (1910075) for Shop */
@@ -311,6 +312,8 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 1910139, -1, 0, 0, False) /* Create Envoy's Shield (1910139) for Shop */
      , (1910008, 4, 1910141, -1, 0, 0, False) /* Create Fetish of the Dark Idols (1910141) for Shop */
      , (1910008, 4, 1910143, -1, 0, 0, False) /* Create Armored Undead Guise (1910143) for Shop */
+     , (1910008, 4, 1910260, -1, 0, 0, False) /* Create Prismatic Amuli Coat (1910260) for Shop */
+     , (1910008, 4, 1910261, -1, 0, 0, False) /* Create Prismatic Amuli Leggings (1910261) for Shop */
      , (1910008, 4, 30082, -1, 0, 0, False) /* Create Perennial Thananim Dye (30082) for Shop */
      , (1910008, 4, 30083, -1, 0, 0, False) /* Create Perennial Colban Dye (30083) for Shop */
      , (1910008, 4, 30084, -1, 0, 0, False) /* Create Perennial Botched Dye (30084) for Shop */
@@ -361,6 +364,7 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 27256, -1, 0, 0, False) /* Create Burning Coal (27256) for Shop */
      , (1910008, 4, 28842, -1, 0, 0, False) /* Create Essence of Cave Penguin (28842) for Shop */
      , (1910008, 4, 29295, -1, 0, 0, False) /* Create Blank Augmentation Gem (29295) for Shop */
+     , (1910008, 4, 1910263, -1, 0, 0, False) /* Create Heart of the Innocent (1910263) for Shop */
      , (1910008, 4, 36518, -1, 0, 0, False) /* Create Colosseum Coin (36518) for Shop */
      , (1910008, 4, 36376, -1, 0, 0, False) /* Create Small Olthoi Venom Sac (36376) for Shop */
      , (1910008, 4, 30075, -1, 0, 0, False) /* Create Infinite Deadly Acid Arrowheads (30075) for Shop */
