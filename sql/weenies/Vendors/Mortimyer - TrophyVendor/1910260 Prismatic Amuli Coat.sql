@@ -6,7 +6,7 @@ VALUES (1910260, 'ace1910260-prismaticamulicoat', 2, '2020-07-01 01:19:27') /* C
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1910260,   1,          2) /* ItemType - Armor */
      , (1910260,   3,         39) /* PaletteTemplate - Black */
-     , (1910260,   4,      13312) /* ClothingPriority - OuterwearChest, OuterwearUpperArms, OuterwearLowerArms */
+     , (1910260,   4,      1024) /* ClothingPriority - */
      , (1910260,   5,       1600) /* EncumbranceVal */
      , (1910260,   9,       6656) /* ValidLocations - ChestArmor, UpperArmArmor, LowerArmArmor */
      , (1910260,  16,          1) /* ItemUseable - No */

@@ -6,7 +6,7 @@ VALUES (1910261, 'ace1910261-prismaticamulileggings', 2, '2020-07-01 01:19:33') 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1910261,   1,          2) /* ItemType - Armor */
      , (1910261,   3,         39) /* PaletteTemplate - Black */
-     , (1910261,   4,       2816) /* ClothingPriority - OuterwearUpperLegs, OuterwearLowerLegs, OuterwearAbdomen */
+     , (1910261,   4,       2048) /* ClothingPriority -  */
      , (1910261,   5,       2288) /* EncumbranceVal */
      , (1910261,   9,      25600) /* ValidLocations - AbdomenArmor, UpperLegArmor, LowerLegArmor */
      , (1910261,  16,          1) /* ItemUseable - No */
