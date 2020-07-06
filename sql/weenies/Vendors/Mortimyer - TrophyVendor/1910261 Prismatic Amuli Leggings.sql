@@ -8,7 +8,7 @@ VALUES (1910261,   1,          2) /* ItemType - Armor */
      , (1910261,   3,         39) /* PaletteTemplate - Black */
      , (1910261,   4,       2048) /* ClothingPriority -  */
      , (1910261,   5,       2288) /* EncumbranceVal */
-     , (1910261,   9,      25600) /* ValidLocations - AbdomenArmor, UpperLegArmor, LowerLegArmor */
+     , (1910261,   9,      1024) /* ValidLocations - AbdomenArmor */
      , (1910261,  16,          1) /* ItemUseable - No */
      , (1910261,  18,          1) /* UiEffects - Magical */
      , (1910261,  19,        250) /* Value */

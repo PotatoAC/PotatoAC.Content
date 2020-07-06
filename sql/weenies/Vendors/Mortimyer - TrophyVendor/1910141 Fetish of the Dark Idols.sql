@@ -12,7 +12,7 @@ VALUES (1910141,   1,        128) /* ItemType - Misc */
      , (1910141,  12,          1) /* StackSize */
      , (1910141,  13,        700) /* StackUnitEncumbrance */
      , (1910141,  14,        700) /* StackUnitMass */
-     , (1910141,  15,        250) /* StackUnitValue */
+     , (1910141,  15,        50) /* StackUnitValue */
      , (1910141,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
      , (1910141,  19,        50) /* Value */
      , (1910141,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
