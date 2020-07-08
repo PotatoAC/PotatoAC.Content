@@ -15,7 +15,7 @@ VALUES (1910273,   1, True ) /* Stuck */
 
 INSERT INTO `weenie_properties_float` (`object_Id`, `type`, `value`)
 VALUES (1910273,  41,      10800) /* RegenerationInterval respawn timer doesnt overide below?*/
-     , (1910273,  43,      1) /* GeneratorRadius max 100 over 100 creates square spawn*/;
+     , (1910273,  43,      100) /* GeneratorRadius max 100 over 100 creates square spawn*/;
 
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1910273,   1, 'Ring Spawner') /* Name */;
