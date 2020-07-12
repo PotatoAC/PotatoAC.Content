@@ -15,7 +15,6 @@ VALUES (1910149,   1,  134217728) /* ItemType - CraftFletchingIntermediate */
      , (1910149,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
      , (1910149,  17,        160) /* RareId */
      , (1910149,  19,        100) /* Value */
-     , (1910149,  33,         -1) /* Bonded - Slippery */
      , (1910149,  53,        101) /* PlacementPosition - Resting */
      , (1910149,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (1910149,  94,  134217728) /* TargetType - CraftFletchingIntermediate */;

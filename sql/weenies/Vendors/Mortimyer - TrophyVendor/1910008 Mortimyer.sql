@@ -367,10 +367,10 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 1910263, -1, 0, 0, False) /* Create Heart of the Innocent (1910263) for Shop */
      , (1910008, 4, 36518, -1, 0, 0, False) /* Create Colosseum Coin (36518) for Shop */
      , (1910008, 4, 36376, -1, 0, 0, False) /* Create Small Olthoi Venom Sac (36376) for Shop */
-     , (1910008, 4, 30075, -1, 0, 0, False) /* Create Infinite Deadly Acid Arrowheads (30075) for Shop */
-     , (1910008, 4, 30076, -1, 0, 0, False) /* Create Infinite Deadly Armor Piercing Arrowheads (30076) for Shop */
-     , (1910008, 4, 30077, -1, 0, 0, False) /* Create Infinite Deadly Blunt Arrowheads (30077) for Shop */
-     , (1910008, 4, 30078, -1, 0, 0, False) /* Create Infinite Deadly Lightning Arrowheads (30078) for Shop */
-     , (1910008, 4, 30079, -1, 0, 0, False) /* Create Infinite Deadly Fire Arrowheads (30079) for Shop */
-     , (1910008, 4, 30080, -1, 0, 0, False) /* Create Infinite Deadly Frog Crotch Arrowheads (30080) for Shop */
-     , (1910008, 4, 30081, -1, 0, 0, False) /* Create Infinite Deadly Frost Arrowheads (30081) for Shop */;
+     , (1910008, 4, 1910145, -1, 0, 0, False) /* Create Infinite Deadly Acid Arrowheads (1910145) for Shop */
+     , (1910008, 4, 1910146, -1, 0, 0, False) /* Create Infinite Deadly Armor Piercing Arrowheads (1910146) for Shop */
+     , (1910008, 4, 1910147, -1, 0, 0, False) /* Create Infinite Deadly Blunt Arrowheads (1910147) for Shop */
+     , (1910008, 4, 1910148, -1, 0, 0, False) /* Create Infinite Deadly Lightning Arrowheads (1910148) for Shop */
+     , (1910008, 4, 1910149, -1, 0, 0, False) /* Create Infinite Deadly Fire Arrowheads (1910149) for Shop */
+     , (1910008, 4, 1910150, -1, 0, 0, False) /* Create Infinite Deadly Frog Crotch Arrowheads (1910150) for Shop */
+     , (1910008, 4, 1910151, -1, 0, 0, False) /* Create Infinite Deadly Frost Arrowheads (1910151) for Shop */;
