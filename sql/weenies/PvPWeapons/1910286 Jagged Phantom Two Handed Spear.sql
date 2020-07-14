@@ -19,7 +19,7 @@ VALUES (1910286,   1,          1) /* ItemType - MeleeWeapon */
      , (1910286,  47,          2) /* AttackType - Thrust */
      , (1910286,  48,         41) /* WeaponSkill - TwoHandedCombat */
      , (1910286,  49,         0) /* WeaponTime */
-     , (1910286,  51,          1) /* CombatUse - Melee */
+     , (1910286,  51,          5) /* CombatUse - TwoHanded */
      , (1910286,  52,          1) /* ParentLocation - RightHand */
      , (1910286,  53,        101) /* PlacementPosition - Resting */
      , (1910286,  93,       3092) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity, LightingOn */
