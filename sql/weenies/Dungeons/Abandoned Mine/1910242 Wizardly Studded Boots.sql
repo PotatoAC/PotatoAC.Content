@@ -55,4 +55,6 @@ VALUES (1910242,   1,   33554640) /* Setup */
                INSERT INTO `weenie_properties_spell_book` (`object_Id`, `spell`, `probability`)
 VALUES (1910242,  6104,      2)  /* Legendary Endurance */
      , (1910242,  4298,      2)  /* Incantation of Endurance Other */
+     , (1910242,  6074,      2)  /* Legendary Void Magic Aptitude */
+     , (1910242,  5410,      2)  /* Incantation of Void Magic Mastery Other */
      , (1910242,  4673,      2)  /* Epic Acid Ward */;
