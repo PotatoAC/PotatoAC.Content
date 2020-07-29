@@ -186,6 +186,7 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 30246, -1, 0, 0, False) /* Create Artist's Crystal (30246) for Shop */
      , (1910008, 4, 30222, -1, 0, 0, False) /* Create Adherent's Crystal (30222) for Shop */
      , (1910008, 4, 30217, -1, 0, 0, False) /* Create Monarch's Crystal (30217) for Shop */
+     , (1910008, 4, 41457, -1, 0, 0, False) /* Create Virindi Consul Essence (41457) for Shop */
      , (1910008, 4, 1910006, -1, 0, 0, False) /* Gurog Guise */
      , (1910008, 4, 1910007, -1, 0, 0, False) /* Create Mukkir Wings (1910007) for Shop */
      , (1910008, 4, 1910010, -1, 0, 0, False) /* Bathrobe Over-Robe */
