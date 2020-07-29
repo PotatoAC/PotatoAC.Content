@@ -49,4 +49,4 @@ VALUES (1910234,   1,   33558419) /* Setup */
 VALUES (1910234,  6055,      2)  /* Legendary Invulnerability */
      , (1910234,  4559,      2)  /* Incantation of Invulnerability Other */
      , (1910234,  4911,      2)  /* Epic Armor */
-     , (1910234,  3957,      2)  /* Epic Slashing Ward */;
+     , (1910234,  4678,      2)  /* Epic Slashing Ward */;

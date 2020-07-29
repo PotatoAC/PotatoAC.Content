@@ -51,4 +51,4 @@ VALUES (1910230,   1,   33558419) /* Setup */
 VALUES (1910230,  6105,      2)  /* Legendary Focus */
      , (1910230,  4304,      2)  /* Incantation of Focus Other */
      , (1910230,  4911,      2)  /* Epic Armor */
-     , (1910230,  3957,      2)  /* Epic Slashing Ward */;
+     , (1910230,  4678,      2)  /* Epic Slashing Ward */;
