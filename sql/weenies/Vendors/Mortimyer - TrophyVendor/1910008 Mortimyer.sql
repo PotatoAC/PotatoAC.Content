@@ -374,4 +374,6 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 1910148, -1, 0, 0, False) /* Create Infinite Deadly Lightning Arrowheads (1910148) for Shop */
      , (1910008, 4, 1910149, -1, 0, 0, False) /* Create Infinite Deadly Fire Arrowheads (1910149) for Shop */
      , (1910008, 4, 1910150, -1, 0, 0, False) /* Create Infinite Deadly Frog Crotch Arrowheads (1910150) for Shop */
-     , (1910008, 4, 1910151, -1, 0, 0, False) /* Create Infinite Deadly Frost Arrowheads (1910151) for Shop */;
+     , (1910008, 4, 1910151, -1, 0, 0, False) /* Create Infinite Deadly Frost Arrowheads (1910151) for Shop */
+     , (1910008, 4, 1910339, -1, 0, 0, False) /* Create Encrusted Bloodstone Jewel Deadly Frost Arrowheads (1910339) for Shop */
+     ;
