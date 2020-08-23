@@ -101,6 +101,6 @@ VALUES (1910333,  0,  4,  0,    0,    0,    0,    0,    0,    0,    0,    0,    
 INSERT INTO `weenie_properties_create_list` (`object_Id`, `destination_Type`, `weenie_Class_Id`, `stack_Size`, `palette`, `shade`, `try_To_Bond`)
 VALUES (1910333, 1,   273,  5, 0, 0, False) /* Create Pyreal (273) for Contain */ 
      , (1910333, 2,  5893,  1, 0, 0, False) /* Create Hoary Mattekar Robe (5893) for Wield */
-     , (1910333, 2,  3715,  1, 0, 0, False) /* Create Olthoi Helm (3715) for Wield */
+     , (1910333, 2,  3715,  1, 13, 0.66, False) /* Create Olthoi Helm (3715) for Wield */
      , (1910333, 2,    57,  1, 13, 0.66, False) /* Create Platemail Gauntlets (57) for Wield */
      , (1910333, 2,   24207, 10, 0, 0, False) /* Weeping Wand (24207) for Wield */;

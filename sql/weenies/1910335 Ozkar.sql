@@ -105,5 +105,7 @@ VALUES
       (1910335, 1,   273,  5, 0, 0, False)
      ,(1910335, 2,   6600, 0, 21, 0.3, False) /* Greater Shadow Amuli Coat (6600) for Wield */
      , (1910335, 2,   6606, 0, 18, 0.3, False) /* Greater Shadow Amuli Leggings (6606) for Wield */
-     , (1910335, 2,   3715, 0, 13, 0.66, False)
+     , (1910335, 2,   3715, 0, 13, 0.66, False) /* Olthoi Helm (3715) for Wield */
+     , (1910335, 2,    57,  1, 13, 0.66, False) /* Create Platemail Gauntlets (57) for Wield */
+     , (1910335, 2,    107,  1, 13, 0.66, False) /* Create Sollerets (107) for Wield */
      , (1910335, 2,   21362, 0, 0, 0, False) /* Deadly Hollow Staff (21362) for Wield */;
