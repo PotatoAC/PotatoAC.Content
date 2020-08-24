@@ -5,8 +5,8 @@ VALUES (1910251, 'ace1910251-banderlingwraithgenerator', 1, '2019-08-21 18:15:51
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1910251,  66,          1) /* CheckpointStatus */
-     , (1910251,  81,          0) /* MaxGeneratedObjects */
-     , (1910251,  82,          0) /* InitGeneratedObjects */
+     , (1910251,  81,          1) /* MaxGeneratedObjects */
+     , (1910251,  82,          1) /* InitGeneratedObjects */
      , (1910251,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */;
 
 INSERT INTO `weenie_properties_bool` (`object_Id`, `type`, `value`)
