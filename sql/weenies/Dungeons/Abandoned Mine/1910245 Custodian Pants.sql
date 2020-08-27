@@ -26,6 +26,7 @@ VALUES (1910245,  11, True ) /* IgnoreCollisions */
      , (1910245,  13, True ) /* Ethereal */
      , (1910245,  14, True ) /* GravityStatus */
      , (1910245,  19, True ) /* Attackable */
+     , (1910245,  23, True ) /* DestroyOnSell */
      , (1910245,  22, True ) /* Inscribable */
      , (1910245, 100, True ) /* Dyable */;
 
