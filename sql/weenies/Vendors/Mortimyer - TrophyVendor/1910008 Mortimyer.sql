@@ -366,7 +366,6 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 28842, -1, 0, 0, False) /* Create Essence of Cave Penguin (28842) for Shop */
      , (1910008, 4, 29295, -1, 0, 0, False) /* Create Blank Augmentation Gem (29295) for Shop */
      , (1910008, 4, 1910263, -1, 0, 0, False) /* Create Heart of the Innocent (1910263) for Shop */
-     , (1910008, 4, 36518, -1, 0, 0, False) /* Create Colosseum Coin (36518) for Shop */
      , (1910008, 4, 36376, -1, 0, 0, False) /* Create Small Olthoi Venom Sac (36376) for Shop */
      , (1910008, 4, 1910145, -1, 0, 0, False) /* Create Infinite Deadly Acid Arrowheads (1910145) for Shop */
      , (1910008, 4, 1910146, -1, 0, 0, False) /* Create Infinite Deadly Armor Piercing Arrowheads (1910146) for Shop */
