@@ -27,7 +27,7 @@ VALUES (1910438,   1, False) /* Stuck */
      , (1910438,  99, False) /* Ivoryable */;
 
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1910438,   1, 'Potato 10x20 Legendary Key') /* Name */
+VALUES (1910438,   1, 'Nearly Flawless Legendary Key') /* Name */
      , (1910438,  13, 'legpotato10_20') /* KeyCode */
      , (1910438,  14, 'Use this key to open a Potato 10x 20 Legendary Chest.') /* Use */
      , (1910438,  16, 'A key only heard about in whispers and myths.') /* LongDesc */;

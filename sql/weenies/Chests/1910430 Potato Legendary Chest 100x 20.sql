@@ -36,7 +36,7 @@ VALUES (1910430,  39, 1.10000002384186) /* DefaultScale */
      , (1910430,  54,       1) /* UseRadius */;
 
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
-VALUES (1910430,   1, 'Potato 100x Quality Chest, 20 items') /* Name */
+VALUES (1910430,   1, 'Legendary Chest of Incomparable Quality') /* Name */
      , (1910430,  12, 'legpotato100_20') /* LockCode */
      , (1910430,  14, 'Use this item to open it and see its contents.') /* Use */
      , (1910430,  16, 'A chest containing the highest quality mixed gear. ') /* LongDesc */;
