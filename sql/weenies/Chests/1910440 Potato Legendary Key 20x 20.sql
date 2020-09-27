@@ -29,8 +29,8 @@ VALUES (1910440,   1, False) /* Stuck */
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
 VALUES (1910440,   1, 'Flawless Legendary Key') /* Name */
      , (1910440,  13, 'legpotato20_20') /* KeyCode */
-     , (1910440,  14, 'Use this key to open a Potato 20x 20 Legendary Chest.') /* Use */
-     , (1910440,  16, 'A key only heard about in whispers and myths.') /* LongDesc */;
+     , (1910440,  14, 'Use this key to open a Flawless Legendary Chest.') /* Use */
+     , (1910440,  16, 'These chests can be found in the meeting halls of Mayoi, Eastham, or Zaikhal.') /* LongDesc */;
 
 INSERT INTO `weenie_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (1910440,   1,   33554784) /* Setup */
