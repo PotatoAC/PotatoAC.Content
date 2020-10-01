@@ -19,7 +19,7 @@ VALUES (1910417,   1,         16) /* ItemType - Creature */
      , (1910417,  93,       1032) /* PhysicsState - ReportCollisions, Gravity */
      , (1910417, 133,          2) /* ShowableOnRadar - ShowMovement */
      , (1910417, 140,          1) /* AiOptions - CanOpenDoors */
-     , (1910417, 146,    4500000) /* XpOverride */;
+     , (1910417, 146,    2500000) /* XpOverride */;
 
 INSERT INTO `weenie_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (1910417,   1, True ) /* Stuck */
@@ -78,10 +78,10 @@ VALUES (1910417,   1,   33558451) /* Setup */
      , (1910417,  19,         86) /* ActivationAnimation */
      , (1910417,  22,  872415400) /* PhysicsEffectTable */
      , (1910417,  30,         86) /* PhysicsScript - BreatheAcid */
-     , (1910417,  35,        2105) /* DeathTreasureType - Loot Tier: 8 */;
+     , (1910417,  35,       2105) /* DeathTreasureType - Loot Tier: 8 */;
 
 INSERT INTO `weenie_properties_attribute` (`object_Id`, `type`, `init_Level`, `level_From_C_P`, `c_P_Spent`)
-VALUES (1910417,   1, 160, 0, 0) /* Strength */
+VALUES (1910417,   1, 360, 0, 0) /* Strength */
      , (1910417,   2, 380, 0, 0) /* Endurance */
      , (1910417,   3, 205, 0, 0) /* Quickness */
      , (1910417,   4, 325, 0, 0) /* Coordination */
@@ -89,7 +89,7 @@ VALUES (1910417,   1, 160, 0, 0) /* Strength */
      , (1910417,   6, 120, 0, 0) /* Self */;
 
 INSERT INTO `weenie_properties_attribute_2nd` (`object_Id`, `type`, `init_Level`, `level_From_C_P`, `c_P_Spent`, `current_Level`)
-VALUES (1910417,   1,  3810, 0, 0, 4000) /* MaxHealth */
+VALUES (1910417,   1,  4810, 0, 0, 6000) /* MaxHealth */
      , (1910417,   3,  5000, 0, 0, 5380) /* MaxStamina */
      , (1910417,   5,     0, 0, 0, 120) /* MaxMana */;
 
@@ -105,9 +105,9 @@ VALUES (1910417,  6, 0, 3, 0, 357, 0, 0) /* MeleeDefense        Specialized */
 INSERT INTO `weenie_properties_body_part` (`object_Id`, `key`, `d_Type`, `d_Val`, `d_Var`, `base_Armor`, `armor_Vs_Slash`, `armor_Vs_Pierce`, `armor_Vs_Bludgeon`, `armor_Vs_Cold`, `armor_Vs_Fire`, `armor_Vs_Acid`, `armor_Vs_Electric`, `armor_Vs_Nether`, `b_h`, `h_l_f`, `m_l_f`, `l_l_f`, `h_r_f`, `m_r_f`, `l_r_f`, `h_l_b`, `m_l_b`, `l_l_b`, `h_r_b`, `m_r_b`, `l_r_b`)
 VALUES (1910417,  0,  4,  5,    0,  450,  495,  450,  450,  450,  495,  495,  495,    0, 1,  0.1,    0,    0,  0.1,    0,    0,  0.1,    0,    0,  0.1,    0,    0) /* Head */
      , (1910417, 16,  4,  5,    0,  450,  495,  450,  450,  450,  495,  495,  495,    0, 2, 0.45,  0.4, 0.45, 0.45,  0.4, 0.45, 0.45,  0.4, 0.45, 0.45,  0.4, 0.45) /* Torso */
-     , (1910417, 18,  2, 120,  0.5,  450,  495,  450,  450,  450,  495,  495,  495,    0, 2,    0,  0.2,  0.1,    0,  0.2,  0.1,    0,  0.2,  0.1,    0,  0.2,  0.1) /* Arm */
-     , (1910417, 19,  2, 120, 0.75,  450,  495,  450,  450,  450,  495,  495,  495,    0, 3,    0,  0.2, 0.45,    0,  0.2, 0.45,    0,  0.2, 0.45,    0,  0.2, 0.45) /* Leg */
-     , (1910417, 20,  1, 120, 0.75,  450,  495,  450,  450,  450,  495,  495,  495,    0, 2, 0.45,  0.2,    0, 0.45,  0.2,    0, 0.45,  0.2,    0, 0.45,  0.2,    0) /* Claw */
+     , (1910417, 18,  2, 180,  0.5,  450,  495,  450,  450,  450,  495,  495,  495,    0, 2,    0,  0.2,  0.1,    0,  0.2,  0.1,    0,  0.2,  0.1,    0,  0.2,  0.1) /* Arm */
+     , (1910417, 19,  2, 180, 0.55,  450,  495,  450,  450,  450,  495,  495,  495,    0, 3,    0,  0.2, 0.45,    0,  0.2, 0.45,    0,  0.2, 0.45,    0,  0.2, 0.45) /* Leg */
+     , (1910417, 20,  1, 180, 0.55,  450,  495,  450,  450,  450,  495,  495,  495,    0, 2, 0.45,  0.2,    0, 0.45,  0.2,    0, 0.45,  0.2,    0, 0.45,  0.2,    0) /* Claw */
      , (1910417, 22, 32, 80,  0.5,    0,    0,    0,    0,    0,    0,    0,    0,    0, 0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0) /* Breath */;
 
 INSERT INTO `weenie_properties_emote` (`object_Id`, `category`, `probability`, `weenie_Class_Id`, `style`, `substyle`, `quest`, `vendor_Type`, `min_Health`, `max_Health`)
@@ -129,5 +129,5 @@ VALUES (@parent_id,  0,   5 /* Motion */, 0, 1, 268435537 /* Twitch1 */, NULL, N
 INSERT INTO `weenie_properties_create_list` (`object_Id`, `destination_Type`, `weenie_Class_Id`, `stack_Size`, `palette`, `shade`, `try_To_Bond`)
 VALUES (1910417, 9, 23108,  0, 0, 0.02, False) /* Create Twisted Dark Key (23108) for ContainTreasure */
      , (1910417, 9,     0,  0, 0, 0.98, False) /* Create nothing for ContainTreasure */
-     , (1910417, 9, 41979,  1, 0, 0.1, False) /* Create Shattered mana forge Key (41979) for ContainTreasure */
+     , (1910417, 9, 23107,  0, 0, 0.01, False) /* Create Mangled Dark Key (23107) for ContainTreasure */
      , (1910417, 9,     0,  0, 0, 0.99, False) /* Create nothing for ContainTreasure */;
