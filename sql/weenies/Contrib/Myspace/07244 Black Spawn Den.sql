@@ -6,7 +6,7 @@ VALUES (7244, 'portalblackdrudgespawngha', 7, '2019-02-04 06:52:23') /* Portal *
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (7244,   1,      65536) /* ItemType - Portal */
      , (7244,  16,         32) /* ItemUseable - Remote */
-     , (7244,  86,         160) /* MinLevel */
+     , (7244,  86,         200) /* MinLevel */
      , (7244,  93,       3084) /* PhysicsState - Ethereal, ReportCollisions, Gravity, LightingOn */
      , (7244, 111,         17) /* PortalBitmask - Unrestricted, NoSummon */
      , (7244, 133,          4) /* ShowableOnRadar - ShowAlways */;
