@@ -189,6 +189,3 @@ VALUES (22517, 9, 11692,  0, 0, 0.01, False) /* Create Little Green Seeds (11692
      , (22517, 9,     0,  0, 0, 0.9, False) /* Create nothing for ContainTreasure */
      , (22517, 9, 29204,  1, 0, 0.075, False) /* Create Tusker Spit (29204) for ContainTreasure */
      , (22517, 9,     0,  0, 0, 0.925, False) /* Create nothing for ContainTreasure */;
-
-INSERT INTO `weenie_properties_generator` (`object_Id`, `probability`, `weenie_Class_Id`, `delay`, `init_Create`, `max_Create`, `when_Create`, `where_Create`, `stack_Size`, `palette_Id`, `shade`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
-VALUES (22517, 1, 1910449, 0, 2, 2, 4, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0) /* Generate  (1910449) (x2 up to max of 2) - Regenerate upon Death - Location to (re)Generate: OnTop */;
