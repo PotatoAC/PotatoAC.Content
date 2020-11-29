@@ -7,7 +7,7 @@ INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (1910142,   1,        128) /* ItemType - Misc */
      , (1910142,   3,          2) /* PaletteTemplate - Blue */
      , (1910142,   5,        100) /* EncumbranceVal */
-     , (1910142,  11,          1) /* MaxStackSize */
+     , (1910142,  11,         10) /* MaxStackSize */
      , (1910142,  12,          1) /* StackSize */
      , (1910142,  13,         35) /* StackUnitEncumbrance */
      , (1910142,  15,         15) /* StackUnitValue */
