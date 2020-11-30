@@ -363,7 +363,7 @@ VALUES (1910008, 2, 25703,  0, 93, 1, False) /* Create Dapper Suit (25703) for W
      , (1910008, 4, 1910200, -1, 0, 0, False) /* Create Scroll of 'Infested Area' Recall (1910200) for Shop */
      , (1910008, 4, 43189, -1, 0, 0, False) /* Create Gem of Knowledge (43189) for Shop */
      , (1910008, 4, 27256, -1, 0, 0, False) /* Create Burning Coal (27256) for Shop */
-     , (1910008, 4, 28842, -1, 0, 0, False) /* Create Essence of Cave Penguin (28842) for Shop */
+     , (1910008, 4, 1910142, -1, 0, 0, False) /* Create Essence of Cave Penguin (28842) for Shop */
      , (1910008, 4, 29295, -1, 0, 0, False) /* Create Blank Augmentation Gem (29295) for Shop */
      , (1910008, 4, 1910263, -1, 0, 0, False) /* Create Heart of the Innocent (1910263) for Shop */
      , (1910008, 4, 36376, -1, 0, 0, False) /* Create Small Olthoi Venom Sac (36376) for Shop */
