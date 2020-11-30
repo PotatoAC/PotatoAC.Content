@@ -10,9 +10,9 @@ VALUES (1910142,   1,        128) /* ItemType - Misc */
      , (1910142,  11,         10) /* MaxStackSize */
      , (1910142,  12,          1) /* StackSize */
      , (1910142,  13,         35) /* StackUnitEncumbrance */
-     , (1910142,  15,         15) /* StackUnitValue */
+     , (1910142,  15,         12) /* StackUnitValue */
      , (1910142,  16,          8) /* ItemUseable - Contained */
-     , (1910142,  19,         15) /* Value */
+     , (1910142,  19,         12) /* Value */
      , (1910142,  53,        101) /* PlacementPosition - Resting */
      , (1910142,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (1910142, 106,        111) /* ItemSpellcraft */
